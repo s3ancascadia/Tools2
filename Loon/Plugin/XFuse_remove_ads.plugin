@@ -1,6 +1,6 @@
 # 插件名称:XFuse_remove_ads.plugin
-# 插件统计:69
-# 更新时间:2024-08-12 11:48:24
+# 插件统计:68
+# 更新时间:2024-08-13 04:37:02
 
 
 [Rule]
@@ -42,7 +42,6 @@ DOMAIN, ios.bugly.qq.com, REJECT
 DOMAIN, ios.video.mpush.qq.com, REJECT
 DOMAIN, otheve.beacon.qq.com, REJECT
 DOMAIN, pgdt.gtimg.cn, REJECT
-DOMAIN, qzonestyle.gtimg.cn, REJECT
 DOMAIN, sdk.e.qq.com, REJECT
 DOMAIN, tmead.y.qq.com, REJECT-NO-DROP
 DOMAIN, tmeadbak.y.qq.com, REJECT

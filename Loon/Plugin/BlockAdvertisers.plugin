@@ -1,6 +1,6 @@
 # 插件名称:BlockAdvertisers.plugin
-# 插件统计:218
-# 更新时间:2024-08-12 11:48:22
+# 插件统计:217
+# 更新时间:2024-08-13 04:37:01
 
 
 [Rule]
@@ -123,7 +123,6 @@ DOMAIN, mi.gdt.qq.com, REJECT
 DOMAIN, otheve.beacon.qq.com, REJECT
 DOMAIN, pgdt.gtimg.cn, REJECT
 DOMAIN, pgdt.ugdtimg.com, REJECT
-DOMAIN, qzonestyle.gtimg.cn, REJECT
 DOMAIN, qzs.gdtimg.com, REJECT
 DOMAIN, qzs.qq.com, REJECT
 DOMAIN, rmonitor.qq.com, REJECT

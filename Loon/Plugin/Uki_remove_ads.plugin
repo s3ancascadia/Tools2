@@ -1,6 +1,6 @@
 # 插件名称:Uki_remove_ads.plugin
-# 插件统计:120
-# 更新时间:2024-08-12 11:48:24
+# 插件统计:119
+# 更新时间:2024-08-13 04:37:02
 
 
 [Rule]
@@ -67,7 +67,6 @@ DOMAIN, mi.gdt.qq.com, REJECT
 DOMAIN, otheve.beacon.qq.com, REJECT
 DOMAIN, pgdt.gtimg.cn, REJECT
 DOMAIN, pgdt.ugdtimg.com, REJECT
-DOMAIN, qzonestyle.gtimg.cn, REJECT
 DOMAIN, qzs.gdtimg.com, REJECT
 DOMAIN, qzs.qq.com, REJECT
 DOMAIN, rmonitor.qq.com, REJECT

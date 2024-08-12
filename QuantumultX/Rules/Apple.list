@@ -1,6 +1,6 @@
 # 规则名称:Apple.list
 # 规则统计:1865
-# 更新时间:2024-08-12 11:48:16
+# 更新时间:2024-08-13 04:36:55
 
 HOST,apps.apple.com,Apple,PROXY
 HOST,a1.mzstatic.com,Apple,PROXY
@@ -1778,6 +1778,7 @@ HOST-SUFFIX,apple.comscoreresearch.com,Apple,PROXY
 HOST-SUFFIX,appleenews.com,Apple,PROXY
 HOST-SUFFIX,applemusic.berlin,Apple,PROXY
 HOST-SUFFIX,applemusic.co,Apple,PROXY
+HOST-SUFFIX,applemusic.com,Apple,PROXY
 HOST-SUFFIX,applemusic.com.au,Apple,PROXY
 HOST-SUFFIX,applemusic.hamburg,Apple,PROXY
 HOST-SUFFIX,applemusic.wang,Apple,PROXY
@@ -1810,7 +1811,6 @@ HOST-SUFFIX,iphoto.se,Apple,PROXY
 HOST-SUFFIX,iphoto.wang,Apple,PROXY
 HOST-SUFFIX,musickit.net,Apple,PROXY
 HOST-SUFFIX,wwwapplemusic.com,Apple,PROXY
-HOST-SUFFIX,applemusic.com,Apple,PROXY
 HOST-SUFFIX,apple-dns.net,Apple,PROXY
 HOST-SUFFIX,apple.news,Apple,PROXY
 HOST-SUFFIX,appsto.re,Apple,PROXY

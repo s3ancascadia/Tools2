@@ -1,6 +1,6 @@
 # 插件名称:DouBan_remove_ads.plugin
-# 插件统计:112
-# 更新时间:2024-08-12 11:48:22
+# 插件统计:113
+# 更新时间:2024-08-13 04:37:01
 
 
 [Rule]
@@ -19,7 +19,6 @@ DOMAIN, mi.gdt.qq.com, REJECT
 DOMAIN, otheve.beacon.qq.com, REJECT
 DOMAIN, pgdt.gtimg.cn, REJECT
 DOMAIN, pgdt.ugdtimg.com, REJECT
-DOMAIN, qzonestyle.gtimg.cn, REJECT
 DOMAIN, qzs.gdtimg.com, REJECT
 DOMAIN, qzs.qq.com, REJECT
 DOMAIN, rmonitor.qq.com, REJECT
@@ -107,10 +106,12 @@ DOMAIN-KEYWORD, asiad.byteactivity, REJECT
 ^https:\/\/api\.douban\.com\/v\d\/app_ads\/splash reject-dict
 
 ^https:\/\/frodo\.douban\.com\/api\/v\d\/erebor\/feed_ad reject-dict
+^https:\/\/m\.douban\.com\/rexxar\/api\/v\d\/market\/products\/ reject-dict
+^https:\/\/frodo\.douban\.com\/api\/v\d\/movie\/ad reject-dict
 
 ^https:\/\/frodo\.douban\.com\/api\/v\d\/home_banner reject-dict
 
-^https:\/\/frodo\.douban\.com\/api\/v2\/search\/found_words reject-dict
+^https:\/\/frodo\.douban\.com\/api\/v\d\/search\/found_words reject-dict
 
 [Mitm]
-hostname = api.douban.com, frodo.douban.com
+hostname = api.douban.com, frodo.douban.com, m.douban.com

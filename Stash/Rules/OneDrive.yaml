@@ -1,6 +1,6 @@
   # 规则名称:OneDrive.yaml
   # 规则统计:17
-  # 更新时间:2024-08-12 11:48:28
+  # 更新时间:2024-08-13 04:37:06
 
 payload:
   - DOMAIN-SUFFIX,1drv.com

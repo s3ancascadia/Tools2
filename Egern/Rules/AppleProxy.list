@@ -1,6 +1,6 @@
 # 规则名称:AppleProxy.list
 # 规则统计:45
-# 更新时间:2024-08-12 11:48:12
+# 更新时间:2024-08-13 04:36:51
 
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,apple.comscoreresearch.com

@@ -1,0 +1,29 @@
+# 插件名称:CatEarFM_remove_ads.plugin
+# 插件统计:25
+# 更新时间:2024-08-13 04:37:01
+
+
+[Rewrite]
+^https:\/\/app\.missevan\.com\/site\/launch\? response-body-json-del info
+
+^https:\/\/fm\.missevan\.com\/api\/v2\/meta\/banner$ response-body-json-del info
+
+^https:\/\/app\.missevan\.com\/site\/get-top$ response-body-json-del info.extra_banners
+
+^https:\/\/fm\.missevan\.com\/api\/v2\/recommended\/top$ response-body-json-del info
+
+^https:\/\/app\.missevan\.com\/drama\/catalog-homepage\? response-body-json-del info.extra_banners
+
+^https:\/\/app\.missevan\.com\/catalog\/sound-homepage\? response-body-json-del info.extra_banners
+
+^https:\/\/app\.missevan\.com\/discovery\/list$ response-body-json-del info[0][0] info[1][0] info[4][0]
+
+^https:\/\/fm\.missevan\.com\/api\/v2\/chatroom\/sound\/recommend\? response-body-json-del info
+
+^https:\/\/app\.missevan\.com\/site\/config$ response-body-json-del info.teenager_popup_mode
+
+[Script]
+http-response ^https:\/\/app\.missevan\.com\/site\/icons\? script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/CatEarFM/CatEarFM_remove_ads.js, requires-body = true, tag = 精简首页标签
+
+[Mitm]
+hostname = app.missevan.com, fm.missevan.com

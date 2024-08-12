@@ -1,6 +1,6 @@
   # 规则名称:PrimeVideo.yaml
   # 规则统计:16
-  # 更新时间:2024-08-12 11:48:28
+  # 更新时间:2024-08-13 04:37:06
 
 payload:
   - DOMAIN,atv-ps.amazon.com

@@ -1,6 +1,6 @@
 # 规则名称:APNs.list
 # 规则统计:11
-# 更新时间:2024-08-12 11:48:28
+# 更新时间:2024-08-13 04:37:07
 
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN,identity.apple.com
