@@ -1,0 +1,27 @@
+# 插件名称:DragonRead_remove_ads.plugin
+# 插件统计:23
+# 更新时间:2024-08-12 11:48:22
+
+
+[Rule]
+URL-REGEX, ^http:\/\/sf3-be-pack\.pglstatp-toutiao\.com\/obj\/ad-app-package\/, REJECT
+URL-REGEX, ^https:\/\/(api-access\.pangolin-sdk-toutiao(\d|-b)?|is\.snssdk)\.com\/api\/ad\/union\/sdk\/get_ads, DIRECT // 放行此条以确保字节跳动去广告脚本的正常执行
+AND, ((DOMAIN-KEYWORD, ads), (DOMAIN-KEYWORD, normal), (DOMAIN-SUFFIX, zijieapi.com)), REJECT
+AND, ((DOMAIN-KEYWORD, -ad-), (DOMAIN-SUFFIX, byteimg.com)), REJECT
+AND, ((DOMAIN-KEYWORD, minigame), (DOMAIN-SUFFIX, zijieapi.com)), REJECT
+AND, ((DOMAIN-KEYWORD, tnc), (AND, ((OR, ((DOMAIN-KEYWORD, -bjlgy), (DOMAIN-KEYWORD, -alisc), (DOMAIN-KEYWORD, -aliec))), (OR, ((DOMAIN-SUFFIX, snssdk.com), (DOMAIN-SUFFIX, toutiaoapi.com), (DOMAIN-SUFFIX, bytedance.com), (DOMAIN-SUFFIX, zijieapi.com)))))), REJECT
+DOMAIN, dig.bdurl.net, REJECT
+DOMAIN, dig.zjurl.cn, REJECT
+DOMAIN, is.snssdk.com, DIRECT // 放行此条以确保广告联盟脚本的正常执行
+DOMAIN, log5-applog.fqnovel.com, REJECT
+DOMAIN, rtlog5-applog.fqnovel.com, REJECT
+
+[Rewrite]
+^https:\/\/sf3-fe-tos\.pglstatp-toutiao\.com\/obj\/ad-pattern\/ reject
+^https:\/\/lf\d?-cdn-tos\.bytescm\.com\/obj\/static\/ad\/ reject
+
+[Script]
+http-response ^https:\/\/(api-access\.pangolin-sdk-toutiao(\d|-b)?|is\.snssdk)\.com\/api\/ad\/union\/sdk\/get_ads script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/Remove_ads_by_keli/adsense.js, requires-body = true, tag = 移除字节跳动广告
+
+[Mitm]
+hostname = sf3-fe-tos.pglstatp-toutiao.com, tnc3-alisc1.zijieapi.com, api-access.pangolin-sdk-toutiao*.com, lf?-cdn-tos.bytescm.com, is.snssdk.com

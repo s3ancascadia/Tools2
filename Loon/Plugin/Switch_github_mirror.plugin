@@ -1,0 +1,15 @@
+# 插件名称:Switch_github_mirror.plugin
+# 插件统计:11
+# 更新时间:2024-08-12 11:48:23
+
+
+[Rule]
+DOMAIN, fastraw.ixnic.net, DIRECT
+DOMAIN, hub.incept.pw, DIRECT
+DOMAIN, raw.kkgithub.com, DIRECT
+
+[Script]
+http-request ^https:\/\/raw\.githubusercontent\.com\/ script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/GitHub/Switch_github_mirror.js, tag = GitHub加速
+
+[Mitm]
+hostname = raw.githubusercontent.com

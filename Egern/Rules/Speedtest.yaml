@@ -1,0 +1,18 @@
+# 规则名称:Speedtest.yaml
+# 规则统计:13
+# 更新时间:2024-08-12 11:48:15
+
+no_resolve: true
+domain_set:
+domain_suffix_set:
+- fast.com
+- ooklaserver.net
+- speed.cloudflare.com
+- speed.dler.io
+domain_keyword_set:
+- speedtest
+domain_regex_set:
+ip_cidr_set:
+ip_cidr6_set:
+asn_set:
+url_regex_set:

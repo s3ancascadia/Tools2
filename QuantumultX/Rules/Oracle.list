@@ -1,0 +1,29 @@
+# 规则名称:Oracle.list
+# 规则统计:25
+# 更新时间:2024-08-12 11:48:17
+
+HOST-SUFFIX,a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com,Oracle,PROXY
+HOST-SUFFIX,addthis.com,Oracle,PROXY
+HOST-SUFFIX,addthis.com.edgekey.net,Oracle,PROXY
+HOST-SUFFIX,addthiscdn.com,Oracle,PROXY
+HOST-SUFFIX,addthisedge.com,Oracle,PROXY
+HOST-SUFFIX,ateam-oracle.com,Oracle,PROXY
+HOST-SUFFIX,bluekai.com,Oracle,PROXY
+HOST-SUFFIX,bronto.com,Oracle,PROXY
+HOST-SUFFIX,covid19-rx.org,Oracle,PROXY
+HOST-SUFFIX,covid19rx.org,Oracle,PROXY
+HOST-SUFFIX,eloqua.com,Oracle,PROXY
+HOST-SUFFIX,eloquaeditors.com,Oracle,PROXY
+HOST-SUFFIX,eloquapreview.com,Oracle,PROXY
+HOST-SUFFIX,en25.com,Oracle,PROXY
+HOST-SUFFIX,java,Oracle,PROXY
+HOST-SUFFIX,java.com,Oracle,PROXY
+HOST-SUFFIX,java.net,Oracle,PROXY
+HOST-SUFFIX,oracle,Oracle,PROXY
+HOST-SUFFIX,oracle.com,Oracle,PROXY
+HOST-SUFFIX,oraclecloud.com,Oracle,PROXY
+HOST-SUFFIX,oraclefoundation.org,Oracle,PROXY
+HOST-SUFFIX,oracleimg.com,Oracle,PROXY
+HOST-SUFFIX,oracleinfinity.io,Oracle,PROXY
+HOST-SUFFIX,responsys.net,Oracle,PROXY
+HOST-SUFFIX,sun.com,Oracle,PROXY

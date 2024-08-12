@@ -1,0 +1,14 @@
+# 插件名称:360SmartCamera_remove_ads.plugin
+# 插件统计:10
+# 更新时间:2024-08-12 11:48:22
+
+
+[Rule]
+DOMAIN, ad.jia.360.cn, REJECT
+DOMAIN, ad.iot.360.cn, REJECT
+
+[Rewrite]
+^https:\/\/jia\.360\.cn\/conf\/v1\.json response-body-json-del tab_conf ad_conf activity
+ 
+[Mitm]
+hostname = jia.360.cn

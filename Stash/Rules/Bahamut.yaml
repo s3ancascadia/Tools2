@@ -1,0 +1,12 @@
+  # 规则名称:Bahamut.yaml
+  # 规则统计:7
+  # 更新时间:2024-08-12 11:48:27
+
+payload:
+  - DOMAIN,bahamut.akamaized.net
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,viblast.com

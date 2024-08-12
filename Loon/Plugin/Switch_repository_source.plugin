@@ -1,0 +1,16 @@
+# 插件名称:Switch_repository_source.plugin
+# 插件统计:12
+# 更新时间:2024-08-12 11:48:23
+
+
+[Rule]
+DOMAIN-SUFFIX, gitlab.com, DIRECT
+DOMAIN-SUFFIX, bitbucket.org, DIRECT
+
+[Script]
+http-request ^https:\/\/raw\.githubusercontent\.com\/luestr\/ProxyResource\/main\/ script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/Switch_repository_source/Switch_repository_source.js, tag = GitHub换源
+http-request ^https:\/\/gitlab\.com\/lodepuly\/vpn_tool\/-\/raw\/master\/ script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/Switch_repository_source/Switch_repository_source.js, tag = GitLab换源
+http-request ^https:\/\/bitbucket\.org\/luestr\/proxyresource\/raw\/main\/ script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/Switch_repository_source/Switch_repository_source.js, tag = Bitbucket换源
+
+[Mitm]
+hostname = gitlab.com, raw.githubusercontent.com, bitbucket.org

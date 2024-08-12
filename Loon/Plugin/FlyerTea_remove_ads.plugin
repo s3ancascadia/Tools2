@@ -1,0 +1,17 @@
+# 插件名称:FlyerTea_remove_ads.plugin
+# 插件统计:13
+# 更新时间:2024-08-12 11:48:22
+
+
+[Rewrite]
+^https:\/\/www\.flyert\.com\.cn\/api\/mobile\/index\.php\?module=advis reject
+^https:\/\/www\.flyert\.com\.cn\/api\/mobile\/index\.php\?module=vip_coupon reject-dict
+^https:\/\/ptf\.flyertrip\.com\/static\/img\/common\/ic_plate_mine_button\.png reject-img
+^https:\/\/www\.flyert\.com\.cn\/api\/mobile\/index\.php\?module=getdata reject-dict
+
+[Script]
+http-response ^https:\/\/www\.flyert\.com\.cn\/api\/mobile\/index\.php\?version=5 script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/FlyerTea/FlyerTea_remove_ads.js, requires-body = true, tag = 移除板块广告
+http-response ^https:\/\/www\.flyert\.com\.cn\/api\/mobile\/index\.php\?module=plugin&id=k_misign:sign script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/FlyerTea/FlyerTea_remove_ads.js, requires-body = true, tag = 移除签到弹窗广告
+
+[Mitm]
+hostname = www.flyert.com.cn, ptf.flyertrip.com

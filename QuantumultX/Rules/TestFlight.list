@@ -1,0 +1,7 @@
+# 规则名称:TestFlight.list
+# 规则统计:3
+# 更新时间:2024-08-12 11:48:17
+
+HOST,beta.apple.com,TestFlight,PROXY
+HOST,testflight.apple.com,TestFlight,PROXY
+HOST-KEYWORD,testflight,TestFlight,PROXY

@@ -1,0 +1,18 @@
+# 插件名称:Sub-Store.plugin
+# 插件统计:14
+# 更新时间:2024-08-12 11:48:23
+
+
+[Rule]
+DOMAIN, sub-store.vercel.app, PROXY
+DOMAIN, ip-api.com, PROXY
+
+[Script]
+http-request ^https?:\/\/sub\.store\/((download)|api\/(preview|sync|(utils\/node-info))) script-path = https://gitlab.com/sub-store/Sub-Store/-/releases/permalink/latest/downloads/sub-store-1.min.js, requires-body = true, timeout = 120, tag = Sub-Store Core
+
+http-request ^https?:\/\/sub\.store script-path = https://gitlab.com/sub-store/Sub-Store/-/releases/permalink/latest/downloads/sub-store-0.min.js, requires-body = true, timeout = 120, tag = Sub-Store Simple
+
+cron "0 0 1 ? * ?" script-path = https://gitlab.com/sub-store/Sub-Store/-/releases/permalink/latest/downloads/cron-sync-artifacts.min.js, tag = Sub-Store Sync
+
+[Mitm]
+hostname = sub.store

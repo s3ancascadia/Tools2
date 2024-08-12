@@ -1,0 +1,17 @@
+# 插件名称:ShouYinTongMerchant_remove_ads.plugin
+# 插件统计:13
+# 更新时间:2024-08-12 11:48:23
+
+
+[Rewrite]
+^https:\/\/syt\.leshuazf\.com\/merchant\/merchant\/showOpenScreenAd$ reject-dict
+
+^https:\/\/m\.fqfin\.cn\/cls\/leshuapay\/preCredit\.json$ reject-dict
+^https:\/\/syt\.leshuazf\.com\/merchant\/messageCenter\/stationLetterList$ reject-dict
+
+^https:\/\/syt\.leshuazf\.com\/merchant\/merchant\/getBannerConfig$ reject-dict
+
+^https:\/\/syt\.leshuazf\.com\/merchant\/popup\/getPopupInfo$ reject-dict
+
+[Mitm]
+hostname = syt.leshuazf.com, m.fqfin.cn

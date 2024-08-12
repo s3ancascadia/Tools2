@@ -1,0 +1,7 @@
+  # 规则名称:FitnessPlus.yaml
+  # 规则统计:2
+  # 更新时间:2024-08-12 11:48:27
+
+payload:
+  - DOMAIN,amp-api.fitness.apple.com
+  - DOMAIN,hls-svod.itunes.apple.com

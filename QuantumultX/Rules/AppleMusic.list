@@ -1,0 +1,14 @@
+# 规则名称:AppleMusic.list
+# 规则统计:10
+# 更新时间:2024-08-12 11:48:17
+
+HOST,aod-ssl.itunes.apple.com,AppleMusic,PROXY
+HOST,aod.itunes.apple.com,AppleMusic,PROXY
+HOST,audio-ssl.itunes.apple.com,AppleMusic,PROXY
+HOST,audio.itunes.apple.com,AppleMusic,PROXY
+HOST,mvod.itunes.apple.com,AppleMusic,PROXY
+HOST,streamingaudio.itunes.apple.com,AppleMusic,PROXY
+HOST-SUFFIX,applemusic.com,AppleMusic,PROXY
+HOST-SUFFIX,blobstore.apple.com,AppleMusic,PROXY
+HOST-SUFFIX,music.apple.com,AppleMusic,PROXY
+USER-AGENT,Music*,AppleMusic,PROXY

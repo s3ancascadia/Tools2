@@ -1,0 +1,10 @@
+# 插件名称:BaiduSearchWebpage_remove_ads.plugin
+# 插件统计:6
+# 更新时间:2024-08-12 11:48:22
+
+
+[Script]
+http-response ^https?:\/\/(www|m)\.baidu\.com\/?($|\?from=\w{8,9}) script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/BaiduSearch/BaiduSearchHomePage_remove_ads.js, requires-body = true, tag = 移除百度搜索首页信息流广告
+
+[Mitm]
+hostname = m.baidu.com, www.baidu.com

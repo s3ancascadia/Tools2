@@ -1,0 +1,8 @@
+  # 规则名称:Claude.yaml
+  # 规则统计:3
+  # 更新时间:2024-08-12 11:48:27
+
+payload:
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai

@@ -1,0 +1,11 @@
+# 插件名称:Google.plugin
+# 插件统计:7
+# 更新时间:2024-08-12 11:48:22
+
+
+[Rewrite]
+^https?:\/\/(www.)?(g|google)\.cn 302 https://www.google.com
+^https?:\/\/(ditu|maps).google\.cn 302 https://maps.google.com
+
+[Mitm]
+hostname = www.google.cn

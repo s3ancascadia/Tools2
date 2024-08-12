@@ -1,0 +1,9 @@
+  # 规则名称:Instagram.yaml
+  # 规则统计:4
+  # 更新时间:2024-08-12 11:48:28
+
+payload:
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-KEYWORD,instagram

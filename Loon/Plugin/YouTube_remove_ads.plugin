@@ -1,0 +1,19 @@
+# 插件名称:YouTube_remove_ads.plugin
+# 插件统计:15
+# 更新时间:2024-08-12 11:48:24
+
+
+[Rule]
+AND, ((DOMAIN-SUFFIX, googlevideo.com),  (PROTOCOL, QUIC)), REJECT
+AND, ((DOMAIN-SUFFIX, youtubei.googleapis.com),  (PROTOCOL, QUIC)), REJECT
+
+[Rewrite]
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad reject-dict
+
+[Script]
+http-request ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|reel\/reel_watch_sequence|get_watch) script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/YouTube/YouTube_remove_ads/YouTube_remove_ads_request.js, requires-body = true, binary-body-mode = true, tag = YouTube请求
+
+http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch) script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/YouTube/YouTube_remove_ads/YouTube_remove_ads_response.js, requires-body = true, binary-body-mode = true, tag = YouTube响应
+
+[Mitm]
+hostname = *.googlevideo.com, youtubei.googleapis.com

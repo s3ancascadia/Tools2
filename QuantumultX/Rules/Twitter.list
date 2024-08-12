@@ -1,0 +1,36 @@
+# 规则名称:Twitter.list
+# 规则统计:32
+# 更新时间:2024-08-12 11:48:17
+
+HOST-SUFFIX,ads-twitter.com,Twitter,PROXY
+HOST-SUFFIX,cms-twdigitalassets.com,Twitter,PROXY
+HOST-SUFFIX,periscope.tv,Twitter,PROXY
+HOST-SUFFIX,pscp.tv,Twitter,PROXY
+HOST-SUFFIX,t.co,Twitter,PROXY
+HOST-SUFFIX,tellapart.com,Twitter,PROXY
+HOST-SUFFIX,tweetdeck.com,Twitter,PROXY
+HOST-SUFFIX,twimg.co,Twitter,PROXY
+HOST-SUFFIX,twimg.com,Twitter,PROXY
+HOST-SUFFIX,twimg.org,Twitter,PROXY
+HOST-SUFFIX,twitpic.com,Twitter,PROXY
+HOST-SUFFIX,twitter.biz,Twitter,PROXY
+HOST-SUFFIX,twitter.com,Twitter,PROXY
+HOST-SUFFIX,twitter.jp,Twitter,PROXY
+HOST-SUFFIX,twittercommunity.com,Twitter,PROXY
+HOST-SUFFIX,twitterflightschool.com,Twitter,PROXY
+HOST-SUFFIX,twitterinc.com,Twitter,PROXY
+HOST-SUFFIX,twitteroauth.com,Twitter,PROXY
+HOST-SUFFIX,twitterstat.us,Twitter,PROXY
+HOST-SUFFIX,twtrdns.net,Twitter,PROXY
+HOST-SUFFIX,twttr.com,Twitter,PROXY
+HOST-SUFFIX,twttr.net,Twitter,PROXY
+HOST-SUFFIX,twvid.com,Twitter,PROXY
+HOST-SUFFIX,vine.co,Twitter,PROXY
+HOST-SUFFIX,x.com,Twitter,PROXY
+HOST-KEYWORD,twitter,Twitter,PROXY
+IP-CIDR,192.133.76.0/22,Twitter,PROXY
+IP-CIDR,199.59.148.0/22,Twitter,PROXY
+IP-CIDR,199.96.56.0/21,Twitter,PROXY
+IP-CIDR,202.160.128.0/22,Twitter,PROXY
+IP-CIDR,209.237.192.0/19,Twitter,PROXY
+IP-CIDR,69.195.160.0/19,Twitter,PROXY

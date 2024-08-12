@@ -1,0 +1,47 @@
+# 规则名称:WeChat.list
+# 规则统计:43
+# 更新时间:2024-08-12 11:48:17
+
+HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,WeChat,DIRECT
+HOST,btrace.qq.com,WeChat,DIRECT
+HOST,dl.wechat.com,WeChat,DIRECT
+HOST,dldir1.qq.com,WeChat,DIRECT
+HOST,sgfindershort.wechat.com,WeChat,DIRECT
+HOST,sgilinkshort.wechat.com,WeChat,DIRECT
+HOST,sglong.wechat.com,WeChat,DIRECT
+HOST,sgminorshort.wechat.com,WeChat,DIRECT
+HOST,sgquic.wechat.com,WeChat,DIRECT
+HOST,sgshort.wechat.com,WeChat,DIRECT
+HOST,slife.xy-asia.com,WeChat,DIRECT
+HOST,soup.v.qq.com,WeChat,DIRECT
+HOST,tencentmap.wechat.com,WeChat,DIRECT
+HOST,vweixinf.tc.qq.com,WeChat,DIRECT
+HOST,weixin110.qq.com,WeChat,DIRECT
+HOST,wup.imtt.qq.com,WeChat,DIRECT
+HOST,wx.tenpay.com,WeChat,DIRECT
+HOST,wxapp.tc.qq.com,WeChat,DIRECT
+HOST-SUFFIX,iot-tencent.com,WeChat,DIRECT
+HOST-SUFFIX,lbs.gtimg.com,WeChat,DIRECT
+HOST-SUFFIX,map.qq.com,WeChat,DIRECT
+HOST-SUFFIX,qlogo.cn,WeChat,DIRECT
+HOST-SUFFIX,qpic.cn,WeChat,DIRECT
+HOST-SUFFIX,servicewechat.com,WeChat,DIRECT
+HOST-SUFFIX,tenpay.com,WeChat,DIRECT
+HOST-SUFFIX,up-hl.3g.qq.com,WeChat,DIRECT
+HOST-SUFFIX,vweixinthumb.tc.qq.com,WeChat,DIRECT
+HOST-SUFFIX,wechat.com,WeChat,DIRECT
+HOST-SUFFIX,wechatlegal.net,WeChat,DIRECT
+HOST-SUFFIX,wechatos.net,WeChat,DIRECT
+HOST-SUFFIX,wechatpay.com,WeChat,DIRECT
+HOST-SUFFIX,weixin.com,WeChat,DIRECT
+HOST-SUFFIX,weixin.qq.com,WeChat,DIRECT
+HOST-SUFFIX,weixinbridge.com,WeChat,DIRECT
+HOST-SUFFIX,weixinsxy.com,WeChat,DIRECT
+HOST-SUFFIX,wx.gtimg.com,WeChat,DIRECT
+HOST-SUFFIX,wx.qq.com,WeChat,DIRECT
+HOST-SUFFIX,wxapp.tc.qq.com,WeChat,DIRECT
+HOST-SUFFIX,wxs.qq.com,WeChat,DIRECT
+HOST-SUFFIX,yun-hl.3g.qq.com,WeChat,DIRECT
+USER-AGENT,MicroMessenger*,WeChat,DIRECT
+USER-AGENT,WeChat*,WeChat,DIRECT
+IP-ASN,132203,WeChat,DIRECT

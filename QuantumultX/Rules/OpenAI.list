@@ -1,0 +1,40 @@
+# 规则名称:OpenAI.list
+# 规则统计:36
+# 更新时间:2024-08-12 11:48:17
+
+HOST,browser-intake-datadoghq.com,OpenAI,PROXY
+HOST,chat.openai.com.cdn.cloudflare.net,OpenAI,PROXY
+HOST,gemini.google.com,OpenAI,PROXY
+HOST,openai-api.arkoselabs.com,OpenAI,PROXY
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI,PROXY
+HOST,openaicomproductionae4b.blob.core.windows.net,OpenAI,PROXY
+HOST,production-openaicom-storage.azureedge.net,OpenAI,PROXY
+HOST,static.cloudflareinsights.com,OpenAI,PROXY
+HOST-SUFFIX,ai.com,OpenAI,PROXY
+HOST-SUFFIX,algolia.net,OpenAI,PROXY
+HOST-SUFFIX,api.statsig.com,OpenAI,PROXY
+HOST-SUFFIX,auth0.com,OpenAI,PROXY
+HOST-SUFFIX,chatgpt.com,OpenAI,PROXY
+HOST-SUFFIX,chatgpt.livekit.cloud,OpenAI,PROXY
+HOST-SUFFIX,client-api.arkoselabs.com,OpenAI,PROXY
+HOST-SUFFIX,events.statsigapi.net,OpenAI,PROXY
+HOST-SUFFIX,featuregates.org,OpenAI,PROXY
+HOST-SUFFIX,host.livekit.cloud,OpenAI,PROXY
+HOST-SUFFIX,identrust.com,OpenAI,PROXY
+HOST-SUFFIX,intercom.io,OpenAI,PROXY
+HOST-SUFFIX,intercomcdn.com,OpenAI,PROXY
+HOST-SUFFIX,launchdarkly.com,OpenAI,PROXY
+HOST-SUFFIX,oaistatic.com,OpenAI,PROXY
+HOST-SUFFIX,oaiusercontent.com,OpenAI,PROXY
+HOST-SUFFIX,observeit.net,OpenAI,PROXY
+HOST-SUFFIX,openai.com,OpenAI,PROXY
+HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI,PROXY
+HOST-SUFFIX,openaicom.imgix.net,OpenAI,PROXY
+HOST-SUFFIX,segment.io,OpenAI,PROXY
+HOST-SUFFIX,sentry.io,OpenAI,PROXY
+HOST-SUFFIX,stripe.com,OpenAI,PROXY
+HOST-SUFFIX,turn.livekit.cloud,OpenAI,PROXY
+HOST-KEYWORD,openai,OpenAI,PROXY
+IP-CIDR,24.199.123.28/32,OpenAI,PROXY
+IP-CIDR,64.23.132.171/32,OpenAI,PROXY
+IP-ASN,20473,OpenAI,PROXY

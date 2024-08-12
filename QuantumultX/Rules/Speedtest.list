@@ -1,0 +1,11 @@
+# 规则名称:Speedtest.list
+# 规则统计:7
+# 更新时间:2024-08-12 11:48:17
+
+HOST,speed.dler.io,Speedtest,PROXY
+HOST-SUFFIX,fast.com,Speedtest,PROXY
+HOST-SUFFIX,ooklaserver.net,Speedtest,PROXY
+HOST-SUFFIX,speed.cloudflare.com,Speedtest,PROXY
+HOST-SUFFIX,speed.dler.io,Speedtest,PROXY
+HOST-KEYWORD,speedtest,Speedtest,PROXY
+USER-AGENT,SpeedTest*,Speedtest,PROXY

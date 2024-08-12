@@ -1,0 +1,19 @@
+# 规则名称:Epic.list
+# 规则统计:15
+# 更新时间:2024-08-12 11:48:17
+
+HOST-SUFFIX,battlebreakers.com,Epic,PROXY
+HOST-SUFFIX,eac-cdn.com,Epic,PROXY
+HOST-SUFFIX,easy.ac,Epic,PROXY
+HOST-SUFFIX,easyanticheat.net,Epic,PROXY
+HOST-SUFFIX,epicgames.com,Epic,PROXY
+HOST-SUFFIX,epicgames.dev,Epic,PROXY
+HOST-SUFFIX,fortnite.com,Epic,PROXY
+HOST-SUFFIX,helpshift.com,Epic,PROXY
+HOST-SUFFIX,paragon.com,Epic,PROXY
+HOST-SUFFIX,playparagon.com,Epic,PROXY
+HOST-SUFFIX,roborecall.com,Epic,PROXY
+HOST-SUFFIX,shadowcomplex.com,Epic,PROXY
+HOST-SUFFIX,spyjinx.com,Epic,PROXY
+HOST-SUFFIX,unrealengine.com,Epic,PROXY
+HOST-SUFFIX,unrealtournament.com,Epic,PROXY

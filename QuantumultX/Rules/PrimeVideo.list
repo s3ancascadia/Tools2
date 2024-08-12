@@ -1,0 +1,22 @@
+# 规则名称:PrimeVideo.list
+# 规则统计:18
+# 更新时间:2024-08-12 11:48:17
+
+HOST,atv-ps.amazon.com,PrimeVideo,PROXY
+HOST,avodmp4s3ww-a.akamaihd.net,PrimeVideo,PROXY
+HOST,d1v5ir2lpwr8os.cloudfront.net,PrimeVideo,PROXY
+HOST,d22qjgkvxw22r6.cloudfront.net,PrimeVideo,PROXY
+HOST,d25xi40x97liuc.cloudfront.net,PrimeVideo,PROXY
+HOST,d27xxe7juh1us6.cloudfront.net,PrimeVideo,PROXY
+HOST,dmqdd6hw24ucf.cloudfront.net,PrimeVideo,PROXY
+HOST,fls-na.amazon.com,PrimeVideo,PROXY
+HOST,www.amazon.com,PrimeVideo,PROXY
+HOST-SUFFIX,aiv-cdn.net,PrimeVideo,PROXY
+HOST-SUFFIX,aiv-delivery.net,PrimeVideo,PROXY
+HOST-SUFFIX,amazonvideo.com,PrimeVideo,PROXY
+HOST-SUFFIX,media-amazon.com,PrimeVideo,PROXY
+HOST-SUFFIX,primevideo.com,PrimeVideo,PROXY
+HOST-SUFFIX,pv-cdn.net,PrimeVideo,PROXY
+HOST-KEYWORD,avoddashs,PrimeVideo,PROXY
+USER-AGENT,InstantVideo.US*,PrimeVideo,PROXY
+USER-AGENT,Prime%20Video*,PrimeVideo,PROXY

@@ -1,0 +1,32 @@
+# 规则名称:TikTok.list
+# 规则统计:28
+# 更新时间:2024-08-12 11:48:17
+
+HOST,lf16-effectcdn.byteeffecttos-g.com,TikTok,PROXY
+HOST,lf16-pkgcdn.pitaya-clientai.com,TikTok,PROXY
+HOST,p16-tiktokcdn-com.akamaized.net,TikTok,PROXY
+HOST-SUFFIX,bytedapm.com,TikTok,PROXY
+HOST-SUFFIX,bytegecko-i18n.com,TikTok,PROXY
+HOST-SUFFIX,byteoversea.com,TikTok,PROXY
+HOST-SUFFIX,capcut.com,TikTok,PROXY
+HOST-SUFFIX,ibytedtos.com,TikTok,PROXY
+HOST-SUFFIX,ibyteimg.com,TikTok,PROXY
+HOST-SUFFIX,ipstatp.com,TikTok,PROXY
+HOST-SUFFIX,isnssdk.com,TikTok,PROXY
+HOST-SUFFIX,muscdn.com,TikTok,PROXY
+HOST-SUFFIX,musical.ly,TikTok,PROXY
+HOST-SUFFIX,sgpstatp.com,TikTok,PROXY
+HOST-SUFFIX,snssdk.com,TikTok,PROXY
+HOST-SUFFIX,tik-tokapi.com,TikTok,PROXY
+HOST-SUFFIX,tiktok.com,TikTok,PROXY
+HOST-SUFFIX,tiktokcdn-us.com,TikTok,PROXY
+HOST-SUFFIX,tiktokcdn.com,TikTok,PROXY
+HOST-SUFFIX,tiktokd.net,TikTok,PROXY
+HOST-SUFFIX,tiktokd.org,TikTok,PROXY
+HOST-SUFFIX,tiktokmusic.app,TikTok,PROXY
+HOST-SUFFIX,tiktokv.com,TikTok,PROXY
+HOST-SUFFIX,tiktokv.us,TikTok,PROXY
+HOST-SUFFIX,ttwebview.com,TikTok,PROXY
+HOST-KEYWORD,musical.ly,TikTok,PROXY
+HOST-KEYWORD,tiktok,TikTok,PROXY
+USER-AGENT,TikTok*,TikTok,PROXY

@@ -1,0 +1,34 @@
+# 规则名称:Spotify.list
+# 规则统计:30
+# 更新时间:2024-08-12 11:48:17
+
+HOST,audio4-ak-spotify-com.akamaized.net,Spotify,PROXY
+HOST,cdn-spotify-experiments.conductrics.com,Spotify,PROXY
+HOST,heads-ak-spotify-com.akamaized.net,Spotify,PROXY
+HOST,spotify.com.edgesuite.net,Spotify,PROXY
+HOST,spotify.map.fastly.net,Spotify,PROXY
+HOST,spotify.map.fastlylb.net,Spotify,PROXY
+HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,Spotify,PROXY
+HOST-SUFFIX,byspotify.com,Spotify,PROXY
+HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,Spotify,PROXY
+HOST-SUFFIX,pscdn.co,Spotify,PROXY
+HOST-SUFFIX,scdn.co,Spotify,PROXY
+HOST-SUFFIX,spoti.fi,Spotify,PROXY
+HOST-SUFFIX,spotify-com.akamaized.net,Spotify,PROXY
+HOST-SUFFIX,spotify-everywhere.com,Spotify,PROXY
+HOST-SUFFIX,spotify.com,Spotify,PROXY
+HOST-SUFFIX,spotify.design,Spotify,PROXY
+HOST-SUFFIX,spotifycdn.com,Spotify,PROXY
+HOST-SUFFIX,spotifycdn.net,Spotify,PROXY
+HOST-SUFFIX,spotifycharts.com,Spotify,PROXY
+HOST-SUFFIX,spotifycodes.com,Spotify,PROXY
+HOST-SUFFIX,spotifyforbrands.com,Spotify,PROXY
+HOST-SUFFIX,spotifyjobs.com,Spotify,PROXY
+HOST-SUFFIX,spotifynewsroom.jp,Spotify,PROXY
+HOST-SUFFIX,spotilocal.com,Spotify,PROXY
+HOST-SUFFIX,tospotify.com,Spotify,PROXY
+HOST-KEYWORD,-spotify-,Spotify,PROXY
+HOST-KEYWORD,spotify.com,Spotify,PROXY
+USER-AGENT,Spotify*,Spotify,PROXY
+IP-CIDR,104.154.127.126/32,Spotify,PROXY
+IP-CIDR,35.186.224.47/32,Spotify,PROXY

@@ -1,0 +1,10 @@
+# 插件名称:Fileball_mount.plugin
+# 插件统计:6
+# 更新时间:2024-08-12 11:48:22
+
+
+[General]
+force-http-engine-hosts = aliyun.example.com:0, quark.example.com:0, pikpak.example.com:0
+
+[Script]
+http-request ^http:\/\/(aliyun|quark|pikpak)\.example\.com script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/Fileball/Fileball_mount.js, requires-body = true, tag = 三合一网盘挂载

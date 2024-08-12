@@ -1,0 +1,9 @@
+  # 规则名称:AppleID.yaml
+  # 规则统计:4
+  # 更新时间:2024-08-12 11:48:27
+
+payload:
+  - DOMAIN,appleid.apple.com
+  - DOMAIN,appleid.cdn-apple.com
+  - DOMAIN,gsa.apple.com
+  - DOMAIN,idmsa.apple.com

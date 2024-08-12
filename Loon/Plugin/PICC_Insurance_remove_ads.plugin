@@ -1,0 +1,17 @@
+# 插件名称:PICC_Insurance_remove_ads.plugin
+# 插件统计:13
+# 更新时间:2024-08-12 11:48:23
+
+
+[Rewrite]
+^https:\/\/zgrb\.epicc\.com\.cn\/G-HAPP\/h\/headlines\/queryHeadlines reject
+^https:\/\/zgrb\.epicc\.com\.cn\/G-HAPP\/a\/update\/startupPage\/v1 reject-dict
+^https:\/\/zgrb\.epicc\.com\.cn\/G-HAPP\/a\/config\/guessYouLike\/v3 reject-dict
+
+[Script]
+http-response ^https:\/\/zgrb\.epicc\.com\.cn\/G-HAPP\/a\/config\/homeInit\/v3 script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/PICC_Insurance/PICC_Insurance_remove_ads.js, requires-body = true, tag = 移除主页推广
+
+http-response ^https:\/\/zgrb\.epicc\.com\.cn\/G-HAPP\/mpageconfig\/myPageConfigList\/v3 script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/PICC_Insurance/PICC_Insurance_remove_ads.js, requires-body = true, tag = 移除我的页面推广
+
+[Mitm]
+hostname = zgrb.epicc.com.cn

@@ -1,0 +1,17 @@
+# 插件名称:Weixin_Official_Accounts_remove_ads.plugin
+# 插件统计:13
+# 更新时间:2024-08-12 11:48:24
+
+
+[Rule]
+DOMAIN, wxsnsdy.wxs.qq.com, REJECT
+DOMAIN, wxsnsdythumb.wxs.qq.com, REJECT
+URL-REGEX, ^http:\/\/[\d\.]+(:49155)?\/finderpdd\.video\.qq\.com\/\d+\/\d+\/stodownload\?, REJECT-DICT
+
+[Rewrite]
+^http:\/\/\w+\.wxs\.qq\.com\/\d+\/\d+\/(snscosdownload|snssvpdownload)\/(SH|SZ)\/reserved\/\w+ reject-dict
+^https:\/\/mp\.weixin\.qq\.com\/mp\/(cps_product_info|getappmsgad|jsmonitor|masonryfeed|relatedarticle)\? reject-dict
+
+
+[Mitm]
+hostname = mp.weixin.qq.com, *.wxs.qq.com

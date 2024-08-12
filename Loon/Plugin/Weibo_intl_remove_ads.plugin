@@ -1,0 +1,18 @@
+# 插件名称:Weibo_intl_remove_ads.plugin
+# 插件统计:14
+# 更新时间:2024-08-12 11:48:24
+
+
+[Rewrite]
+^https?:\/\/api\.weibo\.cn\/\d\/(cardlist\?v_f=\d|ad\/weibointl\?) reject-dict
+^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=hot_search_users reject-dict
+
+[Script]
+http-response ^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?(ct=(feed&a=trends|user&a=get_searching_info)|a=(get_coopen_ads|user_center|search_topic|open_app&auth|icon_center)) script-path = https://gitlab.com/lodepuly/vpn_tool/raw/master/Resource/Script/Weibo_intl/Weibo_intl_remove_ads.js, requires-body = true, tag = 微博轻享版去广告
+
+http-response ^https?:\/\/api\.weibo\.cn\/\d\/statuses\/.*timeline script-path = https://gitlab.com/lodepuly/vpn_tool/raw/master/Resource/Script/Weibo_intl/Weibo_intl_remove_ads.js, requires-body = true, tag = 微博轻享版去广告
+
+http-response ^https?:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/sdkad\.php script-path = https://gitlab.com/lodepuly/vpn_tool/raw/master/Resource/Script/Weibo_intl/Weibo_intl_remove_ads.js, requires-body = true, tag = 微博轻享版去广告
+
+[Mitm]
+hostname = *api.weibo.cn, sdkapp.uve.weibo.com

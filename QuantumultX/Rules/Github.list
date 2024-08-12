@@ -1,0 +1,34 @@
+# 规则名称:Github.list
+# 规则统计:30
+# 更新时间:2024-08-12 11:48:17
+
+HOST-SUFFIX,atom.io,GitHub,PROXY
+HOST-SUFFIX,dependabot.com,GitHub,PROXY
+HOST-SUFFIX,ghcr.io,GitHub,PROXY
+HOST-SUFFIX,git.io,GitHub,PROXY
+HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,GitHub,PROXY
+HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,GitHub,PROXY
+HOST-SUFFIX,github-cloud.s3.amazonaws.com,GitHub,PROXY
+HOST-SUFFIX,github.blog,GitHub,PROXY
+HOST-SUFFIX,github.com,GitHub,PROXY
+HOST-SUFFIX,github.community,GitHub,PROXY
+HOST-SUFFIX,github.dev,GitHub,PROXY
+HOST-SUFFIX,github.io,GitHub,PROXY
+HOST-SUFFIX,githubapp.com,GitHub,PROXY
+HOST-SUFFIX,githubassets.com,GitHub,PROXY
+HOST-SUFFIX,githubhackathon.com,GitHub,PROXY
+HOST-SUFFIX,githubnext.com,GitHub,PROXY
+HOST-SUFFIX,githubpreview.dev,GitHub,PROXY
+HOST-SUFFIX,githubstatus.com,GitHub,PROXY
+HOST-SUFFIX,githubuniverse.com,GitHub,PROXY
+HOST-SUFFIX,githubusercontent.com,GitHub,PROXY
+HOST-SUFFIX,myoctocat.com,GitHub,PROXY
+HOST-SUFFIX,npm.community,GitHub,PROXY
+HOST-SUFFIX,npmjs.com,GitHub,PROXY
+HOST-SUFFIX,npmjs.org,GitHub,PROXY
+HOST-SUFFIX,opensource.guide,GitHub,PROXY
+HOST-SUFFIX,rawgit.com,GitHub,PROXY
+HOST-SUFFIX,rawgithub.com,GitHub,PROXY
+HOST-SUFFIX,repo.new,GitHub,PROXY
+HOST-SUFFIX,thegithubshop.com,GitHub,PROXY
+HOST-KEYWORD,github,GitHub,PROXY

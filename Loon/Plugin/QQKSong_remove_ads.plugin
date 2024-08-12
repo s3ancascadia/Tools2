@@ -1,0 +1,22 @@
+# 插件名称:QQKSong_remove_ads.plugin
+# 插件统计:18
+# 更新时间:2024-08-12 11:48:23
+
+
+[Rule]
+DOMAIN, adsmind.gdtimg.com, REJECT
+DOMAIN, ii.gdt.qq.com, REJECT
+DOMAIN, sdk.e.qq.com, REJECT
+DOMAIN, us.l.qq.com, REJECT
+DOMAIN, tmead.y.qq.com, REJECT-NO-DROP
+DOMAIN, tmeadkg.y.qq.com, REJECT-NO-DROP
+URL-REGEX, ^http:\/\/y\.gtimg\.cn\/music\/common\/upload\/t_k_main_page_banner\/, REJECT
+
+[Rewrite]
+^https:\/\/wallpaper-\d+\.file\.myqcloud\.com\/dsl\/ reject-dict
+^https?:\/\/wallpaper-\d+\.file\.myqcloud\.com\/hikari\/ reject-dict
+^https:\/\/amsweb-cdn-\S+-\d+\.file\.myqcloud\.com\/video\/ad_profile\/ reject-dict
+^https:\/\/wnsaviator\.kg\.qq\.com\/wnsaviator\/api\/v1\/transMerge\?_webcgikey=get_activity_entry$ reject-dict
+
+[Mitm]
+hostname = wallpaper-1258344696.file.myqcloud.com, amsweb-cdn-*-1258344696.file.myqcloud.com, wnsaviator.kg.qq.com

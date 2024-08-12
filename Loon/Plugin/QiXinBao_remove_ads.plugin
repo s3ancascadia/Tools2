@@ -1,0 +1,30 @@
+# 插件名称:QiXinBao_remove_ads.plugin
+# 插件统计:26
+# 更新时间:2024-08-12 11:48:23
+
+
+[Rewrite]
+^https:\/\/appc\.qixin\.com\/v4\/general\/getSearchPlaceholderRedirect$ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/general\/getAppFloatAd$ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/general\/getAppBanners$ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/user\/getUserActivitys$ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/enterprise\/homePageRecommend\/recommendCard\d+ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/user\/getRecommendPersons$ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/enterprise\/getRecommendEnts$ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/enterprise\/getRecommendation$ reject-dict
+
+^https:\/\/appc-v6\.qixin\.com\/v4\/general\/getAppBottomBanners$ reject-dict
+
+^https:\/\/qxb-minicode-pic-osscache\.qixin\.com\/web\/ reject
+
+[Script]
+
+[Mitm]
+hostname = appc.qixin.com, appc-v6.qixin.com, qxb-minicode-pic-osscache.qixin.com

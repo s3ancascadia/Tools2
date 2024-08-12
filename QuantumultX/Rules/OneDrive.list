@@ -1,0 +1,22 @@
+# 规则名称:OneDrive.list
+# 规则统计:18
+# 更新时间:2024-08-12 11:48:17
+
+HOST,oneclient.sfx.ms,OneDrive,PROXY
+HOST-SUFFIX,1drv.com,OneDrive,PROXY
+HOST-SUFFIX,livefilestore.com,OneDrive,PROXY
+HOST-SUFFIX,oneclient.sfx.ms,OneDrive,PROXY
+HOST-SUFFIX,onedrive.com,OneDrive,PROXY
+HOST-SUFFIX,onedrive.live.com,OneDrive,PROXY
+HOST-SUFFIX,photos.live.com,OneDrive,PROXY
+HOST-SUFFIX,sharepoint.com,OneDrive,PROXY
+HOST-SUFFIX,sharepointonline.com,OneDrive,PROXY
+HOST-SUFFIX,skydrive.wns.windows.com,OneDrive,PROXY
+HOST-SUFFIX,spoprod-a.akamaihd.net,OneDrive,PROXY
+HOST-SUFFIX,storage.live.com,OneDrive,PROXY
+HOST-SUFFIX,storage.msn.com,OneDrive,PROXY
+HOST-KEYWORD,1drv,OneDrive,PROXY
+HOST-KEYWORD,onedrive,OneDrive,PROXY
+HOST-KEYWORD,skydrive,OneDrive,PROXY
+USER-AGENT,OneDrive*,OneDrive,PROXY
+USER-AGENT,OneDriveiOSApp*,OneDrive,PROXY
