@@ -1,6 +1,6 @@
   # 规则名称:Netflix.yaml
   # 规则统计:1157
-  # 更新时间:2024-08-13 04:37:06
+  # 更新时间:2024-08-14 04:36:22
 
 payload:
   - DOMAIN,e13252.dscg.akamaiedge.net

@@ -1,6 +1,6 @@
 # 规则名称:Hijacking.list
 # 规则统计:228
-# 更新时间:2024-08-13 04:36:52
+# 更新时间:2024-08-14 04:36:07
 
 DOMAIN,geo2.adobe.com
 DOMAIN-SUFFIX,17gouwuba.com

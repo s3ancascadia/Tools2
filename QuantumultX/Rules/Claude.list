@@ -1,6 +1,6 @@
 # 规则名称:Claude.list
 # 规则统计:3
-# 更新时间:2024-08-13 04:36:56
+# 更新时间:2024-08-14 04:36:12
 
 HOST,cdn.usefathom.com,Claude,PROXY
 HOST-SUFFIX,anthropic.com,Claude,PROXY

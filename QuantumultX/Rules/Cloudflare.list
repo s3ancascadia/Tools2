@@ -1,8 +1,17 @@
 # 规则名称:Cloudflare.list
-# 规则统计:51
-# 更新时间:2024-08-13 04:36:56
+# 规则统计:65
+# 更新时间:2024-08-14 04:36:12
 
 HOST-SUFFIX,cf-ipfs.com,Cloudflare,PROXY
+HOST-SUFFIX,cf-ns.com,Cloudflare,PROXY
+HOST-SUFFIX,cf-ns.net,Cloudflare,PROXY
+HOST-SUFFIX,cf-ns.site,Cloudflare,PROXY
+HOST-SUFFIX,cf-ns.tech,Cloudflare,PROXY
+HOST-SUFFIX,cftest5.cn,Cloudflare,PROXY
+HOST-SUFFIX,cftest6.cn,Cloudflare,PROXY
+HOST-SUFFIX,cftest7.com,Cloudflare,PROXY
+HOST-SUFFIX,cftest8.com,Cloudflare,PROXY
+HOST-SUFFIX,cloudflare-cn.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflare-dns.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflare-ipfs.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflare-quic.com,Cloudflare,PROXY
@@ -13,13 +22,18 @@ HOST-SUFFIX,cloudflareaccess.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflareapps.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflarebolt.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflareclient.com,Cloudflare,PROXY
+HOST-SUFFIX,cloudflarecn.net,Cloudflare,PROXY
+HOST-SUFFIX,cloudflareinsights-cn.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflareinsights.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflareok.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflarepreview.com,Cloudflare,PROXY
+HOST-SUFFIX,cloudflareprod.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflareresolve.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflaressl.com,Cloudflare,PROXY
+HOST-SUFFIX,cloudflarestaging.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflarestatus.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflarestorage.com,Cloudflare,PROXY
+HOST-SUFFIX,cloudflarestoragegw.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflarestream.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflaretest.com,Cloudflare,PROXY
 HOST-SUFFIX,cloudflarewarp.com,Cloudflare,PROXY

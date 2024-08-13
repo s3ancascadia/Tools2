@@ -1,6 +1,6 @@
   # 规则名称:TikTok.yaml
   # 规则统计:28
-  # 更新时间:2024-08-13 04:37:07
+  # 更新时间:2024-08-14 04:36:22
 
 payload:
   - DOMAIN,lf16-effectcdn.byteeffecttos-g.com

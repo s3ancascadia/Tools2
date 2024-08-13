@@ -1,6 +1,6 @@
 # 规则名称:Privacy.list
 # 规则统计:228
-# 更新时间:2024-08-13 04:36:56
+# 更新时间:2024-08-14 04:36:12
 
 HOST,geo2.adobe.com,Hijacking,PROXY
 HOST-SUFFIX,17gouwuba.com,Hijacking,PROXY
