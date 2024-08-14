@@ -1,0 +1,34 @@
+# 插件名称:BaiduMap_remove_ads.plugin
+# 插件统计:30
+# 更新时间:2024-08-15 04:36:13
+
+
+[Rule]
+DOMAIN, httpdns.baidubce.com, REJECT
+IP-CIDR, 186.76.76.200/32, REJECT, no-resolve
+
+[Rewrite]
+^https:\/\/afd\.baidu\.com\/afd\/entry\?action=(update|query) reject-dict
+
+^https:\/\/newclient\.map\.baidu\.com\/feed\/govui\/rich_content reject-dict
+^https:\/\/newclient\.map\.baidu\.com\/client\/imap\/dl\/s\/UpdateInfo\.php\? reject-dict
+
+^https:\/\/newclient\.map\.baidu\.com\/client\/noticebar\/get\? reject-dict
+
+^https:\/\/newclient\.map\.baidu\.com\/(client\/)?usersystem\/mine\/page\? reject-dict
+
+^https:\/\/newclient\.map\.baidu\.com\/client\/phpui2\/\?qt=ads&type=user_home_new_service reject-dict
+
+^https:\/\/yongche\.baidu\.com\/gomarketing\/api\/popup\/getentrancecordovaurl$ reject-dict
+
+^https:\/\/yongche\.baidu\.com\/goorder\/passenger\/cobuild\/pull\? reject-dict
+^https:\/\/yongche\.baidu\.com\/goorder\/passenger\/operationgirdle$ reject-dict
+^https:\/\/yongche\.baidu\.com\/goorder\/passenger\/baseinfo$ reject-dict
+
+^https:\/\/ecom\.map\.baidu\.com\/ad-ops\/afd\/popup\? reject-dict
+^https:\/\/maphotel\.baidu\.com\/hotel\/goextranet\/activity\/detail\? reject-dict
+
+^https:\/\/newclient\.map\.baidu\.com\/living\/nearby\/api\? response-body-json-del Result.cards[1] Result.cards[4] Result.cards[5] Result.cards[9]
+
+[Mitm]
+hostname = afd.baidu.com, newclient.map.baidu.com, yongche.baidu.com, ecom.map.baidu.com

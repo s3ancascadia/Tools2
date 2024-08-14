@@ -1,6 +1,6 @@
 # 插件名称:PinDuoDuo_remove_ads.plugin
-# 插件统计:35
-# 更新时间:2024-08-14 04:36:17
+# 插件统计:36
+# 更新时间:2024-08-15 04:36:14
 
 
 [Rule]
@@ -28,6 +28,7 @@ DOMAIN, th.pinduoduo.com, REJECT
 ^https:\/\/api\.pinduoduo\.com\/api\/engels\/reviews\/require\/append reject-dict
 ^https:\/\/api\.pinduoduo\.com\/api\/caterham\/v3\/query\/my_order_group reject-dict
 ^https:\/\/api\.pinduoduo\.com\/api\/caterham\/v3\/query\/likes reject-dict
+^https:\/\/api\.pinduoduo\.com\/api\/caterham\/v3\/query\/order_express_group reject-dict
 
 [Script]
 http-response ^https:\/\/api\.pinduoduo\.com\/api\/philo\/personal\/hub script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/PinDuoDuo/PinDuoDuo_remove_ads.js, requires-body = true, tag = 拼多多去广告

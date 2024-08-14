@@ -1,6 +1,6 @@
 # 规则名称:OpenAI.list
 # 规则统计:36
-# 更新时间:2024-08-14 04:36:08
+# 更新时间:2024-08-15 04:36:04
 
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
