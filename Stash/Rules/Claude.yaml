@@ -1,6 +1,6 @@
   # 规则名称:Claude.yaml
   # 规则统计:3
-  # 更新时间:2024-08-15 04:36:18
+  # 更新时间:2024-08-16 04:36:01
 
 payload:
   - DOMAIN,cdn.usefathom.com

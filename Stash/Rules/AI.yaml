@@ -1,6 +1,6 @@
   # 规则名称:AI.yaml
   # 规则统计:35
-  # 更新时间:2024-08-15 04:36:17
+  # 更新时间:2024-08-16 04:36:00
 
 payload:
   - DOMAIN,chat.openai.com.cdn.cloudflare.net

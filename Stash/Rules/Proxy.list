@@ -1,6 +1,6 @@
 # 规则名称:Proxy.list
-# 规则统计:6054
-# 更新时间:2024-08-15 04:36:21
+# 规则统计:6056
+# 更新时间:2024-08-16 04:36:04
 
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -4584,6 +4584,7 @@ DOMAIN-SUFFIX,stoporganharvesting.org
 DOMAIN-SUFFIX,stoptibetcrisis.net
 DOMAIN-SUFFIX,storagenewsletter.com
 DOMAIN-SUFFIX,storify.com
+DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,stormmediagroup.com
 DOMAIN-SUFFIX,stoweboyd.com
@@ -5263,6 +5264,7 @@ DOMAIN-SUFFIX,us.to
 DOMAIN-SUFFIX,usacn.com
 DOMAIN-SUFFIX,usaip.eu
 DOMAIN-SUFFIX,usc.edu
+DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,usembassy.gov
 DOMAIN-SUFFIX,userapi.nytlog.com

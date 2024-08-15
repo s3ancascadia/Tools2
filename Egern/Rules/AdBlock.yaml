@@ -1,6 +1,6 @@
 # 规则名称:AdBlock.yaml
-# 规则统计:139316
-# 更新时间:2024-08-15 04:36:04
+# 规则统计:139330
+# 更新时间:2024-08-16 04:35:47
 
 no_resolve: true
 domain_set:
@@ -1554,7 +1554,6 @@ domain_suffix_set:
 - 30407799.com
 - 3053.833enmhob.com
 - 305421ba72.com
-- 305f5127dc.5e1b8e9d68.com
 - 307.cc
 - 3071caa5ff.com
 - 307i6i7do.de
@@ -2392,6 +2391,7 @@ domain_suffix_set:
 - 5da111cc66.423ed275a7.com
 - 5deca62174.9dfbbf28ec.com
 - 5e00.pandasuite.io
+- 5e1b8e9d68.com
 - 5e6ef8e03b.com
 - 5eef1ed9ac.com
 - 5egk.com
@@ -3732,6 +3732,7 @@ domain_suffix_set:
 - a.getflowbox.com
 - a.glcdn.co
 - a.globtube.com
+- a.groox.xyz
 - a.guzhilin.com
 - a.hbf23.cn
 - a.hcaptcha.com
@@ -3847,6 +3848,7 @@ domain_suffix_set:
 - a.prigo.xyz
 - a.prisacom.com
 - a.publicmobile.ca
+- a.q2b2n4y4ghu320.shop
 - a.qiao024.com
 - a.qinghua5.com
 - a.qncye.net
@@ -5738,7 +5740,6 @@ domain_suffix_set:
 - abc.hkepc.com
 - abc.hkepc.net
 - abc.kfyg.xyz
-- abc.pema.cl
 - abc.ruiwen.com
 - abc.xtyx918.com
 - abc.yebaike.com
@@ -6113,6 +6114,7 @@ domain_suffix_set:
 - absolutewrite.fr
 - absolvecarriagenotify.com
 - absolveparticlesanti.com
+- absolvewednesday.com
 - absorbedscholarsvolatile.com
 - absorbedswept.com
 - absorbingband.com
@@ -51069,7 +51071,6 @@ domain_suffix_set:
 - gemfowls.com
 - gemini.yahoo.com
 - geminigiveaway.club
-- gemius.mgr.consensu.org
 - gemius.pl
 - gemlis.com
 - gemmykaraoke.com
@@ -52176,6 +52177,7 @@ domain_suffix_set:
 - glaringregister.com
 - glass.autovistagroup.com
 - glass.rubyrevenue.com
+- glassbox-hlx-igw.bankofamerica.com
 - glassboxcdn.com
 - glassboxdigital.io
 - glassesoftruth.com
@@ -54688,6 +54690,9 @@ domain_suffix_set:
 - guayababemotto.top
 - gubgonx.cn
 - guccigang.top
+- guce.engadget.com
+- guce.rivals.com
+- guce.techcrunch.com
 - guchihyfa.pro
 - gudouzov.com
 - gueikw.xyz
@@ -57076,6 +57081,7 @@ domain_suffix_set:
 - hjhbyywgzxxqzu.com
 - hjhwjphsryi.com
 - hjiwoazeigefn.com
+- hjjpsotb.com
 - hjjshv.xyz
 - hjk.sygjls.com
 - hjkiguy.com
@@ -57986,6 +57992,7 @@ domain_suffix_set:
 - hruk.prikupok.icu
 - hruoxg.5vorflug.de
 - hrutvncu.top
+- hruwegwayoki.com
 - hruyiq.auction.co.kr
 - hrwgsq.loesdau.de
 - hrxjqyxvdqidpv.com
@@ -60527,7 +60534,6 @@ domain_suffix_set:
 - impress.vcita.com
 - impresseastsolo.com
 - impression-tracker-service-5eimuebuhq-lz.a.run.app
-- impression.clickinc.com
 - impression.link
 - impressionable-challenge.pro
 - impressioncheerfullyswig.com
@@ -87841,6 +87847,7 @@ domain_suffix_set:
 - ozationsuchasric.org
 - ozayvgkqpymt.com
 - ozbnagojbop.com
+- ozbvlfiggzpxb.com
 - ozctkohaqmc.com
 - ozcuxo.disturb.fi
 - ozdoir.meundies.com
@@ -101301,6 +101308,7 @@ domain_suffix_set:
 - santosfeltmanager.com
 - santosmiddle.com
 - santtacklingallaso.com
+- santuao.xyz
 - sanya1.com
 - saol.co
 - saon6harz.com
@@ -104146,6 +104154,7 @@ domain_suffix_set:
 - shbxukj.cn
 - shbzdkj.cn
 - shbzegs.cn
+- shbzhkj.cn
 - shbzikj.cn
 - shbzjgs.cn
 - shbzjkj.cn
@@ -119509,6 +119518,7 @@ domain_suffix_set:
 - toawhulo.com
 - tob-cms.bj.bcebos.com
 - tobaccocentgames.com
+- tobaccoearnestnessmayor.com
 - tobaitsie.com
 - tobaltoyon.com
 - tobapplog.tobsnssdk.com
@@ -132579,6 +132589,7 @@ domain_suffix_set:
 - wnrusisedprivatedq.info
 - wnrvrwabnxa.com
 - wnsmusic.qq.com
+- wnstug.xyz
 - wnt-s0me-push.net
 - wnt-some-psh.net
 - wnt-some-push.com
@@ -136046,6 +136057,7 @@ domain_suffix_set:
 - xovq5nemr.com
 - xowvmktath.com
 - xp.allianz.de
+- xp.apple.com
 - xp2023-pix.s3.amazonaws.com
 - xp3366.com
 - xp666.com
@@ -137134,6 +137146,7 @@ domain_suffix_set:
 - yjuhqy.xyz
 - yjuxkncvy.com
 - yjvuthpuwrdmdt.xyz
+- yjvyyndre.com
 - yjwumvme.com
 - yjxhxctqq.com
 - yjxssk.apartments.com
@@ -138904,6 +138917,7 @@ domain_suffix_set:
 - zoukooso.com
 - zouloafi.net
 - zouqiuyyds.com
+- zoustara.net
 - zoutubephaid.com
 - zoutufoostou.com
 - zouwie.mlhif.com

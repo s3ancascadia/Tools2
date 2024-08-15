@@ -1,6 +1,6 @@
 # 规则名称:Steam.list
 # 规则统计:47
-# 更新时间:2024-08-15 04:36:08
+# 更新时间:2024-08-16 04:35:51
 
 HOST,steambroadcast.akamaized.net,Steam,PROXY
 HOST,steamcdn-a.akamaihd.net,Steam,PROXY

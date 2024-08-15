@@ -1,6 +1,6 @@
 # 规则名称:Proxy.list
-# 规则统计:6514
-# 更新时间:2024-08-15 04:36:08
+# 规则统计:6516
+# 更新时间:2024-08-16 04:35:51
 
 HOST,api.msn.com,Proxy,PROXY
 HOST,api.waqi.info,Proxy,PROXY
@@ -4986,6 +4986,7 @@ HOST-SUFFIX,stoptibetcrisis.net,Proxy,PROXY
 HOST-SUFFIX,storagenewsletter.com,Proxy,PROXY
 HOST-SUFFIX,stories.google,Proxy,PROXY
 HOST-SUFFIX,storify.com,Proxy,PROXY
+HOST-SUFFIX,storj.io,Proxy,PROXY
 HOST-SUFFIX,storm.mg,Proxy,PROXY
 HOST-SUFFIX,stormmediagroup.com,Proxy,PROXY
 HOST-SUFFIX,stoweboyd.com,Proxy,PROXY
@@ -5695,6 +5696,7 @@ HOST-SUFFIX,us.to,Proxy,PROXY
 HOST-SUFFIX,usacn.com,Proxy,PROXY
 HOST-SUFFIX,usaip.eu,Proxy,PROXY
 HOST-SUFFIX,usc.edu,Proxy,PROXY
+HOST-SUFFIX,uscardforum.com,Proxy,PROXY
 HOST-SUFFIX,uscnpm.org,Proxy,PROXY
 HOST-SUFFIX,usembassy.gov,Proxy,PROXY
 HOST-SUFFIX,userapi.nytlog.com,Proxy,PROXY

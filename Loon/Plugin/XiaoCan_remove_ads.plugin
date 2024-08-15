@@ -1,0 +1,16 @@
+# 插件名称:XiaoCan_remove_ads.plugin
+# 插件统计:12
+# 更新时间:2024-08-16 04:35:58
+
+
+[Rewrite]
+^https:\/\/gw\.xiaocantech\.com\/rpc header-replace-regex methodname .*(GetBannerList|IsShowOrderAwardPopup|UserLifeShopList|BrandBannerList|GetPromotionGlobalCfg) null
+
+^https:\/\/web2\.realtech-inc\.com\/oss\/xc-app-assets\/configs\/common\/theme\.json reject-dict
+
+^https:\/\/sdk\.1rtb\.net\/sdk\/req_ad\? reject-dict
+
+^https:\/\/gw\.xiaocantech\.com\/g\/pa reject-dict
+
+[Mitm]
+hostname = gw.xiaocantech.com, web2.realtech-inc.com, sdk.1rtb.net
