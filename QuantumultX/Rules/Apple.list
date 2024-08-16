@@ -1,6 +1,6 @@
 # 规则名称:Apple.list
 # 规则统计:1872
-# 更新时间:2024-08-16 04:35:50
+# 更新时间:2024-08-17 04:35:53
 
 HOST,apps.apple.com,Apple,PROXY
 HOST,a1.mzstatic.com,Apple,PROXY
@@ -241,7 +241,6 @@ HOST,devimages-cdn.apple.com,Apple,PROXY
 HOST,devstreaming-cdn.apple.com,Apple,PROXY
 HOST,docs-assets.developer.apple.com,Apple,PROXY
 HOST,gspe1-ssl.ls.apple.com,Apple,PROXY
-HOST,hls-svod.itunes.apple.com,Apple,PROXY
 HOST,itunes.apple.com,Apple,PROXY
 HOST,js-cdn.music.apple.com,Apple,PROXY
 HOST,lookup-api.apple.com,Apple,PROXY
@@ -266,6 +265,7 @@ HOST,fmfmobile.icloud.com,Apple,PROXY
 HOST,fmipmobile.icloud.com,Apple,PROXY
 HOST,statici.icloud.com,Apple,PROXY
 HOST,amp-api.fitness.apple.com,Apple,PROXY
+HOST,hls-svod.itunes.apple.com,Apple,PROXY
 HOST,guzzoni.apple.com,Apple,PROXY
 HOST,beta.apple.com,Apple,PROXY
 HOST,testflight.apple.com,Apple,PROXY
@@ -1776,11 +1776,9 @@ HOST-SUFFIX,ukipad.com,Apple,PROXY
 HOST-SUFFIX,wwwipodlounge.com,Apple,PROXY
 HOST-SUFFIX,wwwmacbookair.com,Apple,PROXY
 HOST-SUFFIX,apple.comscoreresearch.com,Apple,PROXY
-HOST-SUFFIX,apple.news,Apple,PROXY
 HOST-SUFFIX,appleenews.com,Apple,PROXY
 HOST-SUFFIX,applemusic.berlin,Apple,PROXY
 HOST-SUFFIX,applemusic.co,Apple,PROXY
-HOST-SUFFIX,applemusic.com,Apple,PROXY
 HOST-SUFFIX,applemusic.com.au,Apple,PROXY
 HOST-SUFFIX,applemusic.hamburg,Apple,PROXY
 HOST-SUFFIX,applemusic.wang,Apple,PROXY
@@ -1813,7 +1811,9 @@ HOST-SUFFIX,iphoto.se,Apple,PROXY
 HOST-SUFFIX,iphoto.wang,Apple,PROXY
 HOST-SUFFIX,musickit.net,Apple,PROXY
 HOST-SUFFIX,wwwapplemusic.com,Apple,PROXY
+HOST-SUFFIX,applemusic.com,Apple,PROXY
 HOST-SUFFIX,apple-dns.net,Apple,PROXY
+HOST-SUFFIX,apple.news,Apple,PROXY
 HOST-SUFFIX,cdn-apple.com,Apple,PROXY
 HOST-SUFFIX,digicert.com,Apple,PROXY
 HOST-SUFFIX,apple-cloudkit.com,Apple,PROXY

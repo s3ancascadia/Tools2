@@ -1,6 +1,6 @@
 # 规则名称:BlockHttpDNS.list
 # 规则统计:59
-# 更新时间:2024-08-16 04:36:03
+# 更新时间:2024-08-17 04:36:06
 
 DOMAIN,dns.jd.com
 DOMAIN,dns.weibo.cn

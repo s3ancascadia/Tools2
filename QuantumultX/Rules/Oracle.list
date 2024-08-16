@@ -1,6 +1,6 @@
 # 规则名称:Oracle.list
 # 规则统计:25
-# 更新时间:2024-08-16 04:35:51
+# 更新时间:2024-08-17 04:35:54
 
 HOST-SUFFIX,a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com,Oracle,PROXY
 HOST-SUFFIX,addthis.com,Oracle,PROXY

@@ -1,6 +1,6 @@
 # 规则名称:Adrules.yaml
-# 规则统计:119983
-# 更新时间:2024-08-16 04:35:48
+# 规则统计:119990
+# 更新时间:2024-08-17 04:35:51
 
 no_resolve: true
 domain_set:
@@ -1309,6 +1309,7 @@ domain_suffix_set:
 - 2vqgtxw.cn
 - 2vv.cc
 - 2wgolxk.com
+- 2x1gratis.com
 - 2xclick.ru
 - 2xmzazd.cn
 - 2yqcaqbfnv.nextgen.shareablee.com
@@ -24350,6 +24351,8 @@ domain_suffix_set:
 - collector-dev.cdp-dev.cnn.com
 - collector-hpn.ghostery.net
 - collector-px0py5pczn.octopart.com
+- collector-pxebumdlwe.px-cdn.net
+- collector-pxebumdlwe.px-cloud.net
 - collector-statistics.nhn-commerce.com
 - collector-videoplayer.5centscdn.net
 - collector.api.video
@@ -26197,6 +26200,7 @@ domain_suffix_set:
 - craharice.com
 - crajeon.com
 - crakbanner.com
+- crakedquartin.com
 - crakmedia.com
 - craktraffic.com
 - crambidnonutilitybayadeer.com
@@ -42283,6 +42287,7 @@ domain_suffix_set:
 - fussy-highway.pro
 - fussytarbet.space
 - fut.mondo.link
+- futharcconny.shop
 - futileharrystephen.com
 - futilepreposterous.com
 - futilereposerefreshments.com
@@ -82224,6 +82229,7 @@ domain_suffix_set:
 - raspnd.quadratec.com
 - rasrtorukzuq.com
 - rassegnavermentino.it
+- rasurescaribou.com
 - rat.einfachlebenforum.com
 - rat.gimlet.io
 - ratcovertlicence.com
@@ -118923,6 +118929,7 @@ domain_suffix_set:
 - zailgrae.com
 - zailoanoy.com
 - zaimads.com
+- zaipousu.net
 - zaistaug.net
 - zaiuhu.vacatia.com
 - zaiyuanyqq.com

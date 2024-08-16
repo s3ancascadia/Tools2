@@ -1,6 +1,6 @@
   # 规则名称:OpenAI.yaml
   # 规则统计:36
-  # 更新时间:2024-08-16 04:36:02
+  # 更新时间:2024-08-17 04:36:05
 
 payload:
   - DOMAIN,browser-intake-datadoghq.com

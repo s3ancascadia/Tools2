@@ -1,12 +1,15 @@
 # 插件名称:ShuQiCenterReader_remove_ads.plugin
-# 插件统计:14
-# 更新时间:2024-08-16 04:35:57
+# 插件统计:17
+# 更新时间:2024-08-17 04:36:00
 
 
 [Rule]
 DOMAIN, render-web.11222.cn, REJECT
 
 [Rewrite]
+^https:\/\/huichuan\.sm\.cn\/nativead reject-dict
+
+
 ^https:\/\/ocean\.shuqireader\.com\/api\/route\/iosReadPage\/adV2 reject-dict
 ^https:\/\/ocean\.shuqireader\.com\/api\/route\/ios\/readPage$ reject-dict
 ^https:\/\/ocean\.shuqireader\.com\/api\/render\/load\/resource reject
@@ -15,4 +18,4 @@ DOMAIN, render-web.11222.cn, REJECT
 http-response ^https:\/\/ocean\.shuqireader\.com\/sqios\/render\/render\/page\/bookstore$ script-path = https://raw.githubusercontent.com/Auniquesir/Tools/X/Loon/Script/ShuQiCenterReader/ShuQiCenterReader_remove_ads.js, requires-body = true, tag = 移除书城横幅和阅读广告
 
 [Mitm]
-hostname = ocean.shuqireader.com
+hostname = ocean.shuqireader.com, huichuan.sm.cn

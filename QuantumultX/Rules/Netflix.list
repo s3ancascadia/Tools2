@@ -1,6 +1,6 @@
 # 规则名称:Netflix.list
 # 规则统计:1158
-# 更新时间:2024-08-16 04:35:51
+# 更新时间:2024-08-17 04:35:54
 
 HOST,e13252.dscg.akamaiedge.net,Netflix,PROXY
 HOST,h-netflix.online-metrix.net,Netflix,PROXY

@@ -1,6 +1,6 @@
 # 规则名称:Cloudflare.list
 # 规则统计:65
-# 更新时间:2024-08-16 04:35:46
+# 更新时间:2024-08-17 04:35:49
 
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com

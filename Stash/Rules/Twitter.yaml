@@ -1,6 +1,6 @@
   # 规则名称:Twitter.yaml
   # 规则统计:32
-  # 更新时间:2024-08-16 04:36:02
+  # 更新时间:2024-08-17 04:36:05
 
 payload:
   - DOMAIN-SUFFIX,ads-twitter.com

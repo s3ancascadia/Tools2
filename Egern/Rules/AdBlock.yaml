@@ -1,6 +1,6 @@
 # 规则名称:AdBlock.yaml
-# 规则统计:139330
-# 更新时间:2024-08-16 04:35:47
+# 规则统计:139343
+# 更新时间:2024-08-17 04:35:50
 
 no_resolve: true
 domain_set:
@@ -1010,7 +1010,6 @@ domain_suffix_set:
 - 1starwarstx1.com
 - 1stireland.com
 - 1stparty.equifax.co.uk
-- 1sttheglobal.com
 - 1sttheworld.com
 - 1talking.net
 - 1tds26q95.de
@@ -1528,6 +1527,7 @@ domain_suffix_set:
 - 2vqgtxw.cn
 - 2vv.cc
 - 2wgolxk.com
+- 2x1gratis.com
 - 2xclick.ru
 - 2xmzazd.cn
 - 2yqcaqbfnv.nextgen.shareablee.com
@@ -16052,6 +16052,7 @@ domain_suffix_set:
 - aps.hearstnp.com
 - apsalar.com
 - apsatnlfylz.com
+- apsehick.date
 - apsidalmungoos.top
 - apsis1.com
 - apsislead.com
@@ -19413,7 +19414,6 @@ domain_suffix_set:
 - beacon-v2.helpscout.net
 - beacon.adelphic.com
 - beacon.affil.walmart.com
-- beacon.apsehick.date
 - beacon.carfax.com
 - beacon.cdn.qq.com
 - beacon.cdnma.com
@@ -21830,6 +21830,7 @@ domain_suffix_set:
 - bowlprick.com
 - bowlpromoteintimacy.com
 - bowlsolicitor.com
+- bowoprf.icu
 - box-en.com
 - box.anchorfree.net
 - box.bossdata.be
@@ -26263,7 +26264,6 @@ domain_suffix_set:
 - cincinnati-content.cresa.com
 - cineble.com
 - cineflixillimite.com
-- cinela.us
 - cinelario.com
 - cinemabio.com
 - cinemabonus.com
@@ -28233,6 +28233,8 @@ domain_suffix_set:
 - collector-dev.cdp-dev.cnn.com
 - collector-hpn.ghostery.net
 - collector-px0py5pczn.octopart.com
+- collector-pxebumdlwe.px-cdn.net
+- collector-pxebumdlwe.px-cloud.net
 - collector-soompi.viki.io
 - collector-statistics.nhn-commerce.com
 - collector-videoplayer.5centscdn.net
@@ -30413,6 +30415,7 @@ domain_suffix_set:
 - craharice.com
 - crajeon.com
 - crakbanner.com
+- crakedquartin.com
 - crakmedia.com
 - craktraffic.com
 - crambidnonutilitybayadeer.com
@@ -33209,7 +33212,6 @@ domain_suffix_set:
 - danbo.org
 - dancefordamazed.com
 - dancemistake.com
-- dancewithdream.com
 - dandelionnoddingoffended.com
 - dandilysterna.com
 - dandyblondewinding.com
@@ -44294,6 +44296,7 @@ domain_suffix_set:
 - erucbaillie.top
 - eruthoxup.com
 - erutinmos.snagajob.com
+- erutvncw.top
 - erutxdk.cn
 - ervqqtdjdxvgh.com
 - erwqw.zh1155.com
@@ -47943,6 +47946,7 @@ domain_suffix_set:
 - floratelecom.com
 - floridat.app.ur.gcion.com
 - floristgathering.com
+- floroonwhun.com
 - flossdiversebates.com
 - flotsanrantan.com
 - flounderhomemade.com
@@ -49941,6 +49945,7 @@ domain_suffix_set:
 - fussytarbet.space
 - fut.mondo.link
 - futeboltv.com
+- futharcconny.shop
 - futileharrystephen.com
 - futilepreposterous.com
 - futilereposerefreshments.com
@@ -55561,6 +55566,7 @@ domain_suffix_set:
 - halileo.com
 - hall3hook.com
 - hallaert.online
+- hallanjerbil.com
 - halldata.com
 - halliimp.com
 - hallowedinvention.com
@@ -64813,6 +64819,7 @@ domain_suffix_set:
 - jrilbcd.com
 - jrilkvjehrjlri.com
 - jriravntivf.com
+- jrjtibez.icu
 - jrkkcssob.com
 - jrltdiu.cn
 - jrlxrrwgcszo.com
@@ -82227,7 +82234,6 @@ domain_suffix_set:
 - nationhandbook.com
 - nationsencodecordial.com
 - nationssalvation.com
-- natistore.us
 - nativclick.com
 - native-ad.net
 - native-ads-events-api.c4s-rd.services
@@ -82296,6 +82302,7 @@ domain_suffix_set:
 - navfja.answear.hu
 - navi.gd.chinamobile.com
 - navi1.com
+- navi10.ru
 - navi100.com
 - navi12.com
 - navi18.com
@@ -82320,7 +82327,6 @@ domain_suffix_set:
 - navi4.com
 - navi40.com
 - navi43.ru
-- navi44.com
 - navi45.ru
 - navi5.com
 - navi50.com
@@ -82334,6 +82340,7 @@ domain_suffix_set:
 - navi66.com
 - navi66.ru
 - navi67.ru
+- navi69.com
 - navi7.com
 - navi72.com
 - navi72.ru
@@ -87374,6 +87381,7 @@ domain_suffix_set:
 - oulsools.com
 - oulukdliketo.shop
 - oumainseeba.xyz
+- oumnxiek.top
 - oumpashy.net
 - oumtirsu.com
 - ounceanalogous.com
@@ -88450,6 +88458,7 @@ domain_suffix_set:
 - panorama.wixapps.net
 - panoramicbutter.com
 - panoramicplane.com
+- panowiesnarled.click
 - panoz.xyz
 - panpant.xyz
 - panplayable-toutiao-b.com
@@ -89404,7 +89413,6 @@ domain_suffix_set:
 - pay-click.ru
 - pay.holaq.com
 - pay.mobile.sina.cn
-- pay.mvideo.id05196219.com
 - pay.sboot.cn
 - pay.truemoney.me
 - pay4results24.eu
@@ -96348,6 +96356,7 @@ domain_suffix_set:
 - raspyteam.com
 - rasrtorukzuq.com
 - rassegnavermentino.it
+- rasurescaribou.com
 - rat.einfachlebenforum.com
 - rat.gimlet.io
 - rat.rakuten.co.jp
@@ -98429,6 +98438,7 @@ domain_suffix_set:
 - ridwmorfitu.com
 - rieversfidate.com
 - rifec.co
+- riffingwiener.com
 - riffledyanked.click
 - riflesurfing.xyz
 - riftharp.com
@@ -105120,6 +105130,7 @@ domain_suffix_set:
 - skilfulrussian.com
 - skill-hacks.com
 - skillcheats.com
+- skilldicier.com
 - skilleadservices.com
 - skilledskillemergency.com
 - skilledtables.com
@@ -114761,6 +114772,7 @@ domain_suffix_set:
 - supersedeowetraumatic.com
 - superservercellarchin.com
 - superserverwarrior.com
+- supersloth.club
 - supersonic.com
 - supersonicads-a.akamaihd.net
 - supersonicads.com
@@ -130502,7 +130514,6 @@ domain_suffix_set:
 - warlog.ru
 - warlordsofdraenorbetakeys.net
 - warm-course.pro
-- warm-gifts.com
 - warmafterthought.com
 - warmanmamelon.com
 - warmerdisembark.com
@@ -130513,7 +130524,6 @@ domain_suffix_set:
 - warp.ly
 - warpassistrefrain.com
 - warrantpiece.com
-- warriordecor.com
 - warrjy.feiler.jp
 - warsabnormality.com
 - warscoltmarvellous.com
@@ -132985,6 +132995,7 @@ domain_suffix_set:
 - wpushsdk.com
 - wputhonwihpa.com
 - wpwpquse.cn
+- wpwserawnuwq.com
 - wpyvue.idealwine.com
 - wqasioxvqnj.com
 - wqcfg.cn
@@ -138097,6 +138108,7 @@ domain_suffix_set:
 - zailgrae.com
 - zailoanoy.com
 - zaimads.com
+- zaipousu.net
 - zaistaug.net
 - zaiuhu.vacatia.com
 - zaiyuanyqq.com
@@ -138184,6 +138196,7 @@ domain_suffix_set:
 - zbwp6ghm.com
 - zbx01.com
 - zbxtcwi.xyz
+- zbysshlpgvl.com
 - zbz.m.qxs.la
 - zbzbzb.xyz
 - zc.guanzistory.com
