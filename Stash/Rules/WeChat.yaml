@@ -1,6 +1,6 @@
   # 规则名称:WeChat.yaml
   # 规则统计:31
-  # 更新时间:2024-08-17 04:36:05
+  # 更新时间:2024-08-18 04:37:19
 
 payload:
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net

@@ -1,6 +1,6 @@
   # 规则名称:Facebook.yaml
   # 规则统计:570
-  # 更新时间:2024-08-17 04:36:04
+  # 更新时间:2024-08-18 04:37:19
 
 payload:
   - DOMAIN-SUFFIX,aboutfacebook.com

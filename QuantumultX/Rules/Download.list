@@ -1,6 +1,6 @@
 # 规则名称:Download.list
 # 规则统计:6
-# 更新时间:2024-08-17 04:35:53
+# 更新时间:2024-08-18 04:37:08
 
 HOST-SUFFIX,qbittorrent.org,Download,PROXY
 HOST-KEYWORD,aria2,Download,PROXY

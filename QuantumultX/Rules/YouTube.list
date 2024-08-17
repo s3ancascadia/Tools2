@@ -1,6 +1,6 @@
 # 规则名称:YouTube.list
 # 规则统计:196
-# 更新时间:2024-08-17 04:35:54
+# 更新时间:2024-08-18 04:37:08
 
 HOST,music.youtube.com,YouTube,PROXY
 HOST,youtubei.googleapis.com,YouTube,PROXY

@@ -1,6 +1,6 @@
 # 规则名称:Google.list
 # 规则统计:735
-# 更新时间:2024-08-17 04:35:54
+# 更新时间:2024-08-18 04:37:08
 
 HOST,clientservices.googleapis.com,Google,PROXY
 HOST,crl.pki.goog,Google,PROXY

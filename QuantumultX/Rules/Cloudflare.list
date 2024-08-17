@@ -1,6 +1,6 @@
 # 规则名称:Cloudflare.list
 # 规则统计:65
-# 更新时间:2024-08-17 04:35:53
+# 更新时间:2024-08-18 04:37:08
 
 HOST-SUFFIX,cf-ipfs.com,Cloudflare,PROXY
 HOST-SUFFIX,cf-ns.com,Cloudflare,PROXY

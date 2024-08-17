@@ -1,6 +1,6 @@
 # 规则名称:Instagram.list
 # 规则统计:4
-# 更新时间:2024-08-17 04:35:57
+# 更新时间:2024-08-18 04:37:11
 
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
