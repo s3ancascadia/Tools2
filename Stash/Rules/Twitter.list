@@ -1,6 +1,6 @@
 # 规则名称:Twitter.list
 # 规则统计:32
-# 更新时间:2024-08-19 04:36:11
+# 更新时间:2024-08-20 04:37:33
 
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com

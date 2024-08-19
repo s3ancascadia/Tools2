@@ -1,6 +1,6 @@
 # 规则名称:AppleMusic.list
 # 规则统计:10
-# 更新时间:2024-08-19 04:35:58
+# 更新时间:2024-08-20 04:37:19
 
 HOST,aod-ssl.itunes.apple.com,AppleMusic,PROXY
 HOST,aod.itunes.apple.com,AppleMusic,PROXY

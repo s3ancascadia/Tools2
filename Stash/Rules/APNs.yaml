@@ -1,6 +1,6 @@
   # 规则名称:APNs.yaml
   # 规则统计:11
-  # 更新时间:2024-08-19 04:36:08
+  # 更新时间:2024-08-20 04:37:29
 
 payload:
   - DOMAIN-SUFFIX,push.apple.com

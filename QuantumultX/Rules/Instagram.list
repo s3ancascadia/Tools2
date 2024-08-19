@@ -1,6 +1,6 @@
 # 规则名称:Instagram.list
 # 规则统计:4
-# 更新时间:2024-08-19 04:35:58
+# 更新时间:2024-08-20 04:37:19
 
 HOST-SUFFIX,cdninstagram.com,Instagram,PROXY
 HOST-SUFFIX,instagr.am,Instagram,PROXY

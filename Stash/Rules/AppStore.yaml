@@ -1,6 +1,6 @@
   # 规则名称:AppStore.yaml
   # 规则统计:2
-  # 更新时间:2024-08-19 04:36:08
+  # 更新时间:2024-08-20 04:37:30
 
 payload:
   - DOMAIN,apps.apple.com

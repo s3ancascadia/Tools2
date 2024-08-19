@@ -1,6 +1,6 @@
 # 规则名称:iCloud.list
 # 规则统计:58
-# 更新时间:2024-08-19 04:36:02
+# 更新时间:2024-08-20 04:37:23
 
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn
