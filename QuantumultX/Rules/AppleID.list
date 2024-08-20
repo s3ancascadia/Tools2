@@ -1,6 +1,6 @@
 # 规则名称:AppleID.list
 # 规则统计:4
-# 更新时间:2024-08-20 04:37:19
+# 更新时间:2024-08-21 04:36:32
 
 HOST,appleid.apple.com,AppleID,PROXY
 HOST,appleid.cdn-apple.com,AppleID,PROXY

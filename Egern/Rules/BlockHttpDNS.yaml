@@ -1,6 +1,6 @@
 # 规则名称:BlockHttpDNS.yaml
 # 规则统计:67
-# 更新时间:2024-08-20 04:37:17
+# 更新时间:2024-08-21 04:36:31
 
 no_resolve: true
 domain_set:

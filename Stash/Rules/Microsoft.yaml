@@ -1,6 +1,6 @@
   # 规则名称:Microsoft.yaml
   # 规则统计:669
-  # 更新时间:2024-08-20 04:37:30
+  # 更新时间:2024-08-21 04:36:43
 
 payload:
   - DOMAIN,vsmarketplacebadge.apphb.com

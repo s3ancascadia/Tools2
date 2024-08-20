@@ -1,6 +1,6 @@
 # 规则名称:AppStore.list
 # 规则统计:2
-# 更新时间:2024-08-20 04:37:19
+# 更新时间:2024-08-21 04:36:32
 
 HOST,apps.apple.com,AppStore,PROXY
 HOST,itunes.apple.com,AppStore,PROXY

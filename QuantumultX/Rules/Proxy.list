@@ -1,6 +1,6 @@
 # 规则名称:Proxy.list
 # 规则统计:6516
-# 更新时间:2024-08-20 04:37:20
+# 更新时间:2024-08-21 04:36:33
 
 HOST,api.msn.com,Proxy,PROXY
 HOST,api.waqi.info,Proxy,PROXY

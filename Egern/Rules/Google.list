@@ -1,6 +1,6 @@
 # 规则名称:Google.list
 # 规则统计:727
-# 更新时间:2024-08-20 04:37:15
+# 更新时间:2024-08-21 04:36:28
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
