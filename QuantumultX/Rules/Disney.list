@@ -1,6 +1,6 @@
 # 规则名称:Disney.list
 # 规则统计:173
-# 更新时间:2024-08-21 04:36:33
+# 更新时间:2024-08-22 04:37:26
 
 HOST,cdn.registerdisney.go.com,Disney,PROXY
 HOST-SUFFIX,20thcenturystudios.com.au,Disney,PROXY

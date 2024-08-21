@@ -1,6 +1,6 @@
 # 规则名称:AdBlock.yaml
-# 规则统计:139416
-# 更新时间:2024-08-21 04:36:29
+# 规则统计:139346
+# 更新时间:2024-08-22 04:37:22
 
 no_resolve: true
 domain_set:
@@ -12213,6 +12213,7 @@ domain_suffix_set:
 - alchemeeten.com
 - alchemysocial.com
 - alchimybegins.com
+- alcidkits.com
 - alclick.com
 - alcmpn.com
 - alcovesoftenedenthusiastic.com
@@ -16094,7 +16095,6 @@ domain_suffix_set:
 - aps.hearstnp.com
 - apsalar.com
 - apsatnlfylz.com
-- apsehick.date
 - apsidalmungoos.top
 - apsis1.com
 - apsislead.com
@@ -17542,6 +17542,7 @@ domain_suffix_set:
 - autovistaintelligence.autovistagroup.com
 - autspe.notino.hr
 - autumncamping.com
+- autumndrum.com
 - autyxdek.xyz
 - auubslxxi.com
 - auuux.com
@@ -18599,6 +18600,7 @@ domain_suffix_set:
 - baijs06.xyz
 - baijs07.shop
 - baijs07.xyz
+- baijs08.shop
 - baijs08.xyz
 - baikalize.com
 - baike.biz
@@ -19471,6 +19473,7 @@ domain_suffix_set:
 - beacon-fullpage-predictor.goguardian.com
 - beacon.adelphic.com
 - beacon.affil.walmart.com
+- beacon.apsehick.date
 - beacon.carfax.com
 - beacon.cdn.qq.com
 - beacon.cdnma.com
@@ -19726,6 +19729,7 @@ domain_suffix_set:
 - behe.com
 - beheadmuffleddetached.com
 - beheldconformoutlaw.com
+- behesttitus.com
 - behim.click
 - behinde-illizion.ru
 - behindfebruary.com
@@ -26356,6 +26360,7 @@ domain_suffix_set:
 - circumstantialplatoon.com
 - circusinjunctionarrangement.com
 - circusmediocre.com
+- cirrateremord.com
 - cirsoaksat.net
 - cis.schibsted.com
 - cis.sohu.com
@@ -29969,7 +29974,6 @@ domain_suffix_set:
 - counter.webmart.de
 - counter.webmedia.pl
 - counter.websitevoice.com
-- counter.wikiwiki.jp
 - counter.xxxcool.com
 - counter.yandro.ru
 - counter.yesky.com
@@ -30150,6 +30154,7 @@ domain_suffix_set:
 - cowhmc.docmorris.de
 - cowm199.com
 - cowmoss.com
+- cowroidforril.click
 - cowscrayon.com
 - cowtpvi.com
 - coxaripply.top
@@ -33091,6 +33096,7 @@ domain_suffix_set:
 - daawx.cn
 - dabaicai.cn
 - dabaicai.com
+- dabajd.xyz
 - dabaoku.com
 - dabblercissies.com
 - dable.io
@@ -38769,6 +38775,7 @@ domain_suffix_set:
 - dkeyn.com
 - dkfodboldstore.com
 - dkgp834o9n8xl.cloudfront.net
+- dkhffh.xyz
 - dkihlqwmd.com
 - dkjn1bal2.com
 - dkjwbv.xyz
@@ -39615,6 +39622,7 @@ domain_suffix_set:
 - doujs06.xyz
 - doujs07.shop
 - doujs07.xyz
+- doujs08.shop
 - doujs08.xyz
 - doujs09.xyz
 - doukekan.cn
@@ -45258,7 +45266,6 @@ domain_suffix_set:
 - exactdrive.com
 - exactsag.com
 - exacttarget.api.mashery.com
-- exacttarget.com
 - exacttargetapis.com
 - exaggeratekindnessvocal.com
 - exaltationdelayedplague.com
@@ -45333,6 +45340,7 @@ domain_suffix_set:
 - exclamationresound.com
 - exclkplat.com
 - exclusivebrass.com
+- exclusivebuyz4uu.shop
 - exclusiveclicks.com
 - exclusivegiftcards.com
 - exclusivenewhacks.com
@@ -52711,7 +52719,6 @@ domain_suffix_set:
 - go.10086.cn
 - go.17app.co
 - go.24-kredi.com
-- go.3ds.com
 - go.4010.ru
 - go.4sq.com
 - go.aa1trk.com
@@ -52965,7 +52972,6 @@ domain_suffix_set:
 - go.foreverhealthyandhappy.com
 - go.fortifybuildingsolutions.com
 - go.france.innovatedating.com
-- go.france24.com
 - go.freestatesubsidy.com
 - go.freework.com
 - go.frescofrigo.app
@@ -53108,7 +53114,6 @@ domain_suffix_set:
 - go.legalinjuryadvocates.com
 - go.lejour.com.br
 - go.lendspace.com
-- go.letelegramme.fr
 - go.letspepapp.com
 - go.lexuscompletesubscription.com
 - go.lezsingles.ignite.technology
@@ -53137,12 +53142,10 @@ domain_suffix_set:
 - go.marveltest.com
 - go.mashable.com
 - go.mashery.com
-- go.mc-doualiya.com
 - go.mediallowance.com
 - go.medicall.cc
 - go.melhoresbets.com
 - go.mercedesbenzsouthorlando.com
-- go.meretmarine.com
 - go.merqueo.com
 - go.metafundslnk.com
 - go.metalgoodsmfg.com
@@ -53254,7 +53257,6 @@ domain_suffix_set:
 - go.protools.emerson.com
 - go.ps.experian.com
 - go.psentertainment.com
-- go.publicsenat.fr
 - go.pubu.tw
 - go.qantaswellbeing.com
 - go.quartz-events.com
@@ -53280,7 +53282,6 @@ domain_suffix_set:
 - go.revelation-explorer.com
 - go.revolutionarydiscoveries.com
 - go.rex-bac-t.com
-- go.rfi.fr
 - go.ridgid.emerson.com
 - go.rigidseat.com
 - go.riosalado.edu
@@ -53339,7 +53340,6 @@ domain_suffix_set:
 - go.socialvenu.com
 - go.sohu.com
 - go.solaruniverse.com
-- go.solidworks.com
 - go.sonoshine.com
 - go.southafrica.ignite.technology
 - go.southafrica.innovatedating.com
@@ -56664,6 +56664,7 @@ domain_suffix_set:
 - hewokhn.com
 - hewomenentail.com
 - hewonderfulst.info
+- hewrutu.top
 - hexagon-analytics.com
 - hexapinow.xyz
 - hexcvb.xyz
@@ -58272,7 +58273,6 @@ domain_suffix_set:
 - htyzpilijhki.com
 - hu-business.vodafone.com
 - hu-topgal.m-shop.me
-- hu.searswalers.com
 - hu.sharpmarketing.eu
 - huadan.in
 - huaerdadi.com
@@ -62531,6 +62531,7 @@ domain_suffix_set:
 - intuition-agile-7.com
 - intuitiontrenchproduces.com
 - intuitvisitorid.api.intuit.com
+- intuseseorita.com
 - inudpbi.com
 - inuedidgmapla.com
 - inulaserenegue.top
@@ -65593,6 +65594,7 @@ domain_suffix_set:
 - jyisloa.top
 - jyjhjopmq.com
 - jyjmpatmgk.com
+- jyjrbz.xyz
 - jylgvkxgfy.com
 - jynginedoddle.top
 - jynp9m209p.com
@@ -66138,7 +66140,6 @@ domain_suffix_set:
 - kettlemisplacestate.com
 - keuktyouexpe.info
 - kevuci.ru
-- kewal.shop
 - keweifuwu.shop
 - kewnemhpbmzkm.com
 - kexojito.com
@@ -66545,6 +66546,7 @@ domain_suffix_set:
 - kjuftmdofmsrhq.com
 - kjuwxmi.xyz
 - kjvaqbyebqarl.top
+- kjxhd.cn
 - kjxmcn.eset.com
 - kjxztu.biz-journal.jp
 - kjyouhp.com
@@ -67451,111 +67453,53 @@ domain_suffix_set:
 - l-t.topya.com
 - l-test.civic.com
 - l-test.guesthug.com
-- l.20minutes.fr
-- l.actu.fr
 - l.adiers.com
-- l.africabusinessplus.com
-- l.allocine.fr
-- l.alternatives-economiques.fr
 - l.apna.co
 - l.audibook.si
-- l.aufeminin.com
 - l.azarlive.com
-- l.beauxarts.com
-- l.bfmtv.com
 - l.bhaibandhu.com
 - l.bigbasket.com
 - l.biglion.ru
 - l.brightside.com
 - l.bspace.io
-- l.caminteresse.fr
-- l.capital.fr
-- l.centre-presse.fr
-- l.centrepresseaveyron.fr
-- l.challenges.fr
 - l.civic.com
 - l.claphere.com
 - l.coastapp.com
 - l.create.canva.com
-- l.cuisineactuelle.fr
 - l.cultgear.com
 - l.da-te.jp
 - l.dev-ajo.caixabank.com
 - l.dev.audibook.si
 - l.dm.casio.info
-- l.doctissimo.fr
 - l.du.coach
 - l.e.domain.com.au
-- l.enfant.com
 - l.engage.canva.com
 - l.fairblocker.com
-- l.familiscope.fr
-- l.femmeactuelle.fr
 - l.ffsagami.com
 - l.ffx.io
-- l.fip.fr
-- l.franceantilles.fr
-- l.francebleu.fr
-- l.franceculture.fr
-- l.franceguyane.fr
-- l.franceinter.fr
-- l.francemusique.fr
 - l.francetvinfo.fr
-- l.frandroid.com
-- l.gala.fr
-- l.gentside.com
-- l.gentside.de
-- l.geo.fr
 - l.getpyfl.com
 - l.glrcy.cn
 - l.gocement.com
 - l.gpay.to
-- l.grazia.fr
 - l.guesthug.com
 - l.hamazo.tv
-- l.harpersbazaar.fr
-- l.heidi.news
-- l.humanite.fr
 - l.ialoc.app
 - l.iamfy.co
 - l.ikora.tv
 - l.imax.com
 - l.itribe.in
 - l.jayshetty.me
-- l.jeuneafrique.com
-- l.jeuxvideo.com
-- l.journaldemillau.fr
 - l.junglekouen.com
 - l.kodika.io
 - l.kyo2.jp
-- l.ladepeche.fr
-- l.lanouvellerepublique.fr
-- l.laprovence.com
-- l.lardennais.fr
-- l.lavoixdunord.fr
-- l.lefigaro.fr
-- l.leparisien.fr
-- l.lepoint.fr
-- l.lequotidiendelart.com
-- l.letemps.ch
 - l.lilyzhou.com
-- l.lindependant.fr
 - l.linkpulse.com
-- l.lunion.fr
 - l.lyfshort.com
 - l.m.naver.com
 - l.m.tradiecore.com.au
-- l.madmoizelle.com
-- l.mariefrance.fr
-- l.marsactu.fr
-- l.maxisciences.com
-- l.mediapart.fr
-- l.melty.fr
-- l.midilibre.fr
 - l.miyachan.cc
 - l.mnjkw.cn
-- l.monacomatin.mc
-- l.mprovence.com
 - l.msdl.naver.com
 - l.mydoki.app
 - l.myvoleo.com
@@ -67563,48 +67507,27 @@ domain_suffix_set:
 - l.navx.co
 - l.newnew.co
 - l.nflo.at
-- l.nicematin.com
 - l.niiblo.jp
-- l.notretemps.com
-- l.numerama.com
 - l.ohmyad.co
-- l.ohmymag.co.uk
-- l.ohmymag.com
-- l.ohmymag.de
 - l.ooyala.com
 - l.osakazine.net
-- l.ouest-france.fr
 - l.player.ooyala.com
 - l.post2b.com
 - l.prk.bz
-- l.programme-tv.net
-- l.programme.tv
 - l.qq.com
-- l.radiofrance.fr
 - l.redcross.or.ke
-- l.reporterre.net
-- l.rmc.fr
-- l.rmcsport.fr
 - l.rovo.co
 - l.sagafan.jp
-- l.sciencesetavenir.fr
 - l.siply.in
 - l.sqrrl.in
-- l.sudinfo.be
-- l.sudouest.fr
 - l.support.canva.com
 - l.supremapoker.net
 - l.t.domain.com.au
 - l.tamaliver.jp
 - l.tenkomori.tv
-- l.tf1.fr
-- l.tf1info.fr
-- l.theafricareport.com
 - l.thumbtack.com
 - l.ti-da.net
-- l.topmusic.fr
 - l.topya.com
-- l.touteleurope.eu
 - l.training-page.worldvision.ca
 - l.traxmag.com
 - l.typesquare.com
@@ -67612,9 +67535,7 @@ domain_suffix_set:
 - l.unfy.ai
 - l.urban.com.au
 - l.uvcr.me
-- l.varmatin.com
 - l.voalearningenglish.in
-- l.voici.fr
 - l.voleousa.com
 - l.web.huya.com
 - l.whizzl.com
@@ -70435,6 +70356,7 @@ domain_suffix_set:
 - lkdazrtkame.com
 - lkdvvxvtsq6o.com
 - lkdybkwi.xyz
+- lkdyft.xyz
 - lkenflknkd.com
 - lketpgwauan.com
 - lkeurotpmiz.com
@@ -79130,6 +79052,7 @@ domain_suffix_set:
 - microsoft-cnd.com
 - microsoft-debug-098.com
 - microsoft-home-en.com
+- microsoft-notifcation.com
 - microsoft-online-en-us.com
 - microsoft-ware.com
 - microsoft.eventionapp.com
@@ -79624,6 +79547,7 @@ domain_suffix_set:
 - mixpo.com
 - mixtraffic.com
 - mixxuo.sportys.gr
+- miycoc.xyz
 - miyqoyyazdal.com
 - miyudaquan.top
 - miyushu.com
@@ -82414,7 +82338,6 @@ domain_suffix_set:
 - navi39.ru
 - navi4.com
 - navi40.com
-- navi42.ru
 - navi43.ru
 - navi45.ru
 - navi5.com
@@ -83313,6 +83236,7 @@ domain_suffix_set:
 - nexioniect.com
 - nexium.1.p2l.info
 - nexstep.zdworks.com
+- next-cryptopod.xyz
 - next-done.website
 - nextbdom.ru
 - nextclick.pl
@@ -83612,6 +83536,7 @@ domain_suffix_set:
 - ningme.ru
 - ningtoldrop.ru
 - ninja.akamaized.net
+- ninja.data.olxcdn.com
 - ninja.onap.io
 - ninjacat.io
 - ninjakeygens.com
@@ -84032,6 +83957,7 @@ domain_suffix_set:
 - noproblfr.com
 - noptog.com
 - nora7nice.com
+- norardmirror.com
 - nordette.1.p2l.info
 - nordette.3.p2l.info
 - nordette.4.p2l.info
@@ -89814,6 +89740,7 @@ domain_suffix_set:
 - peasbishopgive.com
 - peaveynee.top
 - pebadu.com
+- pebbledteledus.com
 - pebblemedia.be
 - pebbleoutgoing.com
 - pebx.pl
@@ -90819,6 +90746,7 @@ domain_suffix_set:
 - pingtcss.qq.com
 - pinjamanelit.top
 - pinjamanplus.com
+- pinjamanrupiah.xyz
 - pinjamnow.my.id
 - pinjamteman.top
 - pinjamuang.top
@@ -92430,6 +92358,7 @@ domain_suffix_set:
 - pouchadjoinmama.com
 - pouchaffection.com
 - pouchclockwise.com
+- pouchedathelia.com
 - poucoaga.com
 - poudrinnamaste.com
 - poufaini.com
@@ -98920,7 +98849,6 @@ domain_suffix_set:
 - rochesterbreedpersuade.com
 - rochesterdata.com
 - rock5rice.com
-- rockchief.com
 - rockersbaalize.com
 - rocket-companion.info
 - rocket-galaxy.net
@@ -99175,6 +99103,7 @@ domain_suffix_set:
 - rourl.me
 - rousedaudacity.com
 - roushath.xyz
+- route2content.com
 - route31.org
 - routeit.one
 - routeme.one
@@ -102403,6 +102332,7 @@ domain_suffix_set:
 - searchtabnew.com
 - searchwe.com
 - searchwithme.net
+- searswalers.com
 - seashorelikelihoodreasonably.com
 - seashoremessy.com
 - seashorepigeonsbanish.com
@@ -109332,7 +109262,6 @@ domain_suffix_set:
 - social-touch.com
 - social.forddirectdealers.com
 - social.insidelpl.com
-- social.lafranceagricole.fr
 - social.talenttitan.com
 - social.tinyview.com
 - social1listnews.com
@@ -113838,6 +113767,7 @@ domain_suffix_set:
 - sternlythese.com
 - steropestreaks.com
 - sterouhavene.org
+- stertordorab.com
 - steshacm.xyz
 - stethaug.xyz
 - stethuth.xyz
@@ -114902,8 +114832,6 @@ domain_suffix_set:
 - supuv2.com
 - supuv3.com
 - supvka.colancolan.com
-- sur.corsematin.com
-- sur.laprovence.com
 - surahsbimas.com
 - surclebodily.uno
 - surcloyspecify.com
@@ -123271,6 +123199,7 @@ domain_suffix_set:
 - tracking.pennmedicine.princetonhcs.org
 - tracking.pennypublications.com
 - tracking.pennystockpicks.net
+- tracking.peopleareeverything.com
 - tracking.pepsicopartners.com
 - tracking.petrelocation.com
 - tracking.pgi.com
@@ -128634,6 +128563,7 @@ domain_suffix_set:
 - veoxa.com
 - veoxphl.com
 - veozn3f.com
+- vepemtuphul.net
 - vephowcpyvncm.com
 - veqvek.bnnbloomberg.ca
 - veqvek.cp24.com
@@ -131537,6 +131467,7 @@ domain_suffix_set:
 - weem.weemco.com
 - weemofee.com
 - ween.bid
+- weephuwe.xyz
 - weepingheartache.com
 - weepingpretext.com
 - weeprobbery.com
@@ -133108,6 +133039,7 @@ domain_suffix_set:
 - wrevenuewasadi.info
 - wrgjbsjxb.xyz
 - wrhv.education.gouv.fr
+- wrightdirely.com
 - wring.monzodiorite.uno
 - wringdecorate.com
 - wrinkleirritateoverrated.com
@@ -133491,7 +133423,6 @@ domain_suffix_set:
 - www.1hkfq6598i.com
 - www.200-rockergod.com
 - www.200summit.com
-- www.20min.fr
 - www.22-trk-srv.com
 - www.24-visionaryenterprise.com
 - www.31d.net
@@ -133595,7 +133526,6 @@ domain_suffix_set:
 - www.alnw3nsdi.com
 - www.alskd34.com
 - www.altabold1.com
-- www.altereco.media
 - www.amazing-opportunities.info
 - www.amazingstrongwell.com
 - www.amos5lynn.com
@@ -137895,6 +137825,7 @@ domain_suffix_set:
 - yuunion.com
 - yuvdqnpo.com
 - yuwenbin.host
+- yuwqsk.xyz
 - yuxyz.com
 - yuyue008.cn
 - yuyueyang.cn
@@ -138050,7 +137981,6 @@ domain_suffix_set:
 - yywridi.cn
 - yyyaih.icu
 - yyys.shop
-- yz.wrightdirely.com
 - yzaosite.com
 - yzcfva.healthyplanetcanada.com
 - yzcpgadw.icu

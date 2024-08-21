@@ -1,6 +1,6 @@
 # 规则名称:OpenAI.list
 # 规则统计:36
-# 更新时间:2024-08-21 04:36:33
+# 更新时间:2024-08-22 04:37:26
 
 HOST,browser-intake-datadoghq.com,OpenAI,PROXY
 HOST,chat.openai.com.cdn.cloudflare.net,OpenAI,PROXY
