@@ -1,6 +1,6 @@
 # 规则名称:Cloudflare.yaml
 # 规则统计:73
-# 更新时间:2024-08-22 04:37:24
+# 更新时间:2024-08-23 04:35:49
 
 no_resolve: true
 domain_set:

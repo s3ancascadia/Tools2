@@ -1,6 +1,6 @@
 # 规则名称:WeChat.list
 # 规则统计:43
-# 更新时间:2024-08-22 04:37:26
+# 更新时间:2024-08-23 04:35:51
 
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,WeChat,DIRECT
 HOST,btrace.qq.com,WeChat,DIRECT

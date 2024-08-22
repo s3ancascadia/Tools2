@@ -1,6 +1,6 @@
 # 规则名称:AppleID.list
 # 规则统计:4
-# 更新时间:2024-08-22 04:37:38
+# 更新时间:2024-08-23 04:36:03
 
 DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com

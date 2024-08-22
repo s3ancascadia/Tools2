@@ -1,6 +1,6 @@
 # 规则名称:Github.list
 # 规则统计:30
-# 更新时间:2024-08-22 04:37:26
+# 更新时间:2024-08-23 04:35:51
 
 HOST-SUFFIX,atom.io,GitHub,PROXY
 HOST-SUFFIX,dependabot.com,GitHub,PROXY

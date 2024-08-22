@@ -1,6 +1,6 @@
 # 规则名称:Hijacking.list
 # 规则统计:228
-# 更新时间:2024-08-22 04:37:26
+# 更新时间:2024-08-23 04:35:51
 
 HOST,geo2.adobe.com,Hijacking,PROXY
 HOST-SUFFIX,17gouwuba.com,Hijacking,PROXY
