@@ -1,6 +1,6 @@
 # 规则名称:Antiad.list
 # 规则统计:98255
-# 更新时间:2024-08-23 04:35:51
+# 更新时间:2024-08-24 04:35:45
 
 HOST-SUFFIX,0008d6ba2e.com,PROXY
 HOST-SUFFIX,000dn.com,PROXY

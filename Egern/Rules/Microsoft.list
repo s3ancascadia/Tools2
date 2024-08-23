@@ -1,6 +1,6 @@
 # 规则名称:Microsoft.list
 # 规则统计:672
-# 更新时间:2024-08-23 04:35:47
+# 更新时间:2024-08-24 04:35:41
 
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.ms

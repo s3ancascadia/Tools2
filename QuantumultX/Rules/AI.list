@@ -1,6 +1,6 @@
 # 规则名称:AI.list
 # 规则统计:35
-# 更新时间:2024-08-23 04:35:50
+# 更新时间:2024-08-24 04:35:44
 
 HOST,chat.openai.com.cdn.cloudflare.net,PROXY
 HOST,o33249.ingest.sentry.io,PROXY

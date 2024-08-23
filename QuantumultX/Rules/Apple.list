@@ -1,9 +1,8 @@
 # 规则名称:Apple.list
 # 规则统计:1872
-# 更新时间:2024-08-23 04:35:51
+# 更新时间:2024-08-24 04:35:45
 
 HOST,apps.apple.com,Apple,PROXY
-HOST,itunes.apple.com,Apple,PROXY
 HOST,a1.mzstatic.com,Apple,PROXY
 HOST,a2.mzstatic.com,Apple,PROXY
 HOST,a3.mzstatic.com,Apple,PROXY
@@ -231,6 +230,7 @@ HOST,audio-ssl.itunes.apple.com,Apple,PROXY
 HOST,audio.itunes.apple.com,Apple,PROXY
 HOST,mvod.itunes.apple.com,Apple,PROXY
 HOST,streamingaudio.itunes.apple.com,Apple,PROXY
+HOST,gspe1-ssl.ls.apple.com,Apple,PROXY
 HOST,news-client-search.apple.com,Apple,PROXY
 HOST,api-glb-sea.smoot.apple.com,Apple,PROXY
 HOST,apple.comscoreresearch.com,Apple,PROXY
@@ -241,9 +241,8 @@ HOST,developer.apple.com,Apple,PROXY
 HOST,devimages-cdn.apple.com,Apple,PROXY
 HOST,devstreaming-cdn.apple.com,Apple,PROXY
 HOST,docs-assets.developer.apple.com,Apple,PROXY
-HOST,gspe1-ssl.ls.apple.com,Apple,PROXY
-HOST,hls-svod.itunes.apple.com,Apple,PROXY
 HOST,hls.itunes.apple.com,Apple,PROXY
+HOST,itunes.apple.com,Apple,PROXY
 HOST,js-cdn.music.apple.com,Apple,PROXY
 HOST,lookup-api.apple.com,Apple,PROXY
 HOST,mask-api.fe.apple-dns.net,Apple,PROXY
@@ -267,6 +266,7 @@ HOST,fmfmobile.icloud.com,Apple,PROXY
 HOST,fmipmobile.icloud.com,Apple,PROXY
 HOST,statici.icloud.com,Apple,PROXY
 HOST,amp-api.fitness.apple.com,Apple,PROXY
+HOST,hls-svod.itunes.apple.com,Apple,PROXY
 HOST,guzzoni.apple.com,Apple,PROXY
 HOST,beta.apple.com,Apple,PROXY
 HOST,www-cdn.icloud.com.akadns.net,Apple,PROXY
@@ -1451,6 +1451,7 @@ HOST-SUFFIX,applepaysupplies.net,Apple,PROXY
 HOST-SUFFIX,applepaysupplies.tv,Apple,PROXY
 HOST-SUFFIX,applewallet.com,Apple,PROXY
 HOST-SUFFIX,applewallet.tv,Apple,PROXY
+HOST-SUFFIX,appsto.re,Apple,PROXY
 HOST-SUFFIX,appstore.co.id,Apple,PROXY
 HOST-SUFFIX,appstore.com,Apple,PROXY
 HOST-SUFFIX,appstore.hk,Apple,PROXY
@@ -1764,7 +1765,6 @@ HOST-SUFFIX,wwwapplemusic.com,Apple,PROXY
 HOST-SUFFIX,applemusic.com,Apple,PROXY
 HOST-SUFFIX,apple-dns.net,Apple,PROXY
 HOST-SUFFIX,apple.news,Apple,PROXY
-HOST-SUFFIX,appsto.re,Apple,PROXY
 HOST-SUFFIX,digicert.com,Apple,PROXY
 HOST-SUFFIX,apple-cloudkit.com,Apple,PROXY
 HOST-SUFFIX,apple-icloud.cn,Apple,PROXY
@@ -1860,8 +1860,8 @@ USER-AGENT,locationd*,Apple,PROXY
 USER-AGENT,passd*,Apple,PROXY
 USER-AGENT,Music*,Apple,PROXY
 USER-AGENT,AppleNews*,Apple,PROXY
-USER-AGENT,AppleTV*,Apple,PROXY
 USER-AGENT,com.apple.news*,Apple,PROXY
+USER-AGENT,AppleTV*,Apple,PROXY
 USER-AGENT,com.apple.trustd*,Apple,PROXY
 USER-AGENT,com.apple.tv*,Apple,PROXY
 IP-CIDR,139.178.128.0/18,Apple,PROXY

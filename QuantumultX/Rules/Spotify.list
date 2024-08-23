@@ -1,6 +1,6 @@
 # 规则名称:Spotify.list
 # 规则统计:30
-# 更新时间:2024-08-23 04:35:51
+# 更新时间:2024-08-24 04:35:46
 
 HOST,audio4-ak-spotify-com.akamaized.net,Spotify,PROXY
 HOST,cdn-spotify-experiments.conductrics.com,Spotify,PROXY

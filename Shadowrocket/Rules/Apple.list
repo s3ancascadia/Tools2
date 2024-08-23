@@ -1,6 +1,6 @@
 # 规则名称:Apple.list
 # 规则统计:40
-# 更新时间:2024-08-23 04:35:59
+# 更新时间:2024-08-24 04:35:54
 
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
@@ -28,8 +28,8 @@ USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
 USER-AGENT,AppleNews*
-USER-AGENT,AppleTV*
 USER-AGENT,com.apple.news*
+USER-AGENT,AppleTV*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,com.apple.tv*
 IP-CIDR,139.178.128.0/18,no-resolve

@@ -1,6 +1,6 @@
   # 规则名称:Spotify.yaml
   # 规则统计:30
-  # 更新时间:2024-08-23 04:36:02
+  # 更新时间:2024-08-24 04:35:56
 
 payload:
   - DOMAIN,audio4-ak-spotify-com.akamaized.net

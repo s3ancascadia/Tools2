@@ -1,6 +1,6 @@
   # 规则名称:Disney.yaml
   # 规则统计:173
-  # 更新时间:2024-08-23 04:36:01
+  # 更新时间:2024-08-24 04:35:56
 
 payload:
   - DOMAIN-SUFFIX,20thcenturystudios.com.au

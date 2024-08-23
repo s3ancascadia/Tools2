@@ -1,6 +1,6 @@
 # 规则名称:BlockHttpDNS.list
 # 规则统计:59
-# 更新时间:2024-08-23 04:35:51
+# 更新时间:2024-08-24 04:35:45
 
 HOST,dns.jd.com,BlockHttpDNS,PROXY
 HOST,dns.weibo.cn,BlockHttpDNS,PROXY
