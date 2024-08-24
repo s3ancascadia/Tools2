@@ -1,6 +1,6 @@
 # 规则名称:OneDrive.list
 # 规则统计:18
-# 更新时间:2024-08-24 04:35:46
+# 更新时间:2024-08-25 04:35:51
 
 HOST,oneclient.sfx.ms,OneDrive,PROXY
 HOST-SUFFIX,1drv.com,OneDrive,PROXY

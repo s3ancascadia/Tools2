@@ -1,6 +1,6 @@
 # 规则名称:Facebook.list
 # 规则统计:570
-# 更新时间:2024-08-24 04:35:46
+# 更新时间:2024-08-25 04:35:51
 
 HOST-SUFFIX,aboutfacebook.com,Facebook,PROXY
 HOST-SUFFIX,accessfacebookfromschool.com,Facebook,PROXY

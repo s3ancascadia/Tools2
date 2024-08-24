@@ -1,6 +1,6 @@
 # 规则名称:Speedtest.list
 # 规则统计:7
-# 更新时间:2024-08-24 04:35:46
+# 更新时间:2024-08-25 04:35:51
 
 HOST,speed.dler.io,Speedtest,PROXY
 HOST-SUFFIX,fast.com,Speedtest,PROXY

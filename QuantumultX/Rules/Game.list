@@ -1,6 +1,6 @@
 # 规则名称:Game.list
 # 规则统计:583
-# 更新时间:2024-08-24 04:35:46
+# 更新时间:2024-08-25 04:35:51
 
 HOST,eaasserts-a.akamaihd.net,Game,PROXY
 HOST,originasserts.akamaized.net,Game,PROXY
@@ -426,13 +426,16 @@ HOST-SUFFIX,lolusercontent.com,Game,PROXY
 HOST-SUFFIX,lpl.com.cn,Game,PROXY
 HOST-SUFFIX,molesports.com,Game,PROXY
 HOST-SUFFIX,playvalorant.com,Game,PROXY
+HOST-SUFFIX,pvp.net,Game,PROXY
 HOST-SUFFIX,pvp.tv,Game,PROXY
 HOST-SUFFIX,rgpub.io,Game,PROXY
 HOST-SUFFIX,riot-games.com,Game,PROXY
 HOST-SUFFIX,riot.com,Game,PROXY
 HOST-SUFFIX,riot.net,Game,PROXY
+HOST-SUFFIX,riotcdn.net,Game,PROXY
 HOST-SUFFIX,riotforgegames.com,Game,PROXY
 HOST-SUFFIX,riotgames.co.kr,Game,PROXY
+HOST-SUFFIX,riotgames.com,Game,PROXY
 HOST-SUFFIX,riotgames.info,Game,PROXY
 HOST-SUFFIX,riotgames.jp,Game,PROXY
 HOST-SUFFIX,riotgames.net,Game,PROXY
@@ -494,9 +497,6 @@ HOST-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com,Game,PROXY
 HOST-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com,Game,PROXY
 HOST-SUFFIX,ubisoft.com,Game,PROXY
 HOST-SUFFIX,uplay.com,Game,PROXY
-HOST-SUFFIX,pvp.net,Game,PROXY
-HOST-SUFFIX,riotcdn.net,Game,PROXY
-HOST-SUFFIX,riotgames.com,Game,PROXY
 HOST-SUFFIX,beth.games,Game,PROXY
 HOST-SUFFIX,bethesda.net,Game,PROXY
 HOST-SUFFIX,bethesdagamestudios.com,Game,PROXY
@@ -555,10 +555,8 @@ IP-CIDR,203.66.81.98/32,Game,PROXY
 IP-CIDR,211.234.110.1/32,Game,PROXY
 IP-CIDR,54.207.107.12/32,Game,PROXY
 IP-CIDR,103.4.114.233/32,Game,PROXY
-IP-CIDR,185.60.114.159/32,Game,PROXY
 IP-CIDR,202.9.67.254/32,Game,PROXY
 IP-CIDR,222.231.22.1/32,Game,PROXY
-IP-CIDR,24.105.62.129/32,Game,PROXY
 IP-CIDR,13.210.25.233/32,Game,PROXY
 IP-CIDR,13.212.170.102/32,Game,PROXY
 IP-CIDR,13.212.171.212/32,Game,PROXY
@@ -583,5 +581,7 @@ IP-CIDR,54.207.168.84/32,Game,PROXY
 IP-CIDR,54.248.64.192/32,Game,PROXY
 IP-CIDR,103.4.115.248/32,Game,PROXY
 IP-CIDR,137.221.105.2/32,Game,PROXY
+IP-CIDR,185.60.114.159/32,Game,PROXY
 IP-CIDR,210.71.148.11/32,Game,PROXY
 IP-CIDR,211.115.104.1/32,Game,PROXY
+IP-CIDR,24.105.62.129/32,Game,PROXY

@@ -1,6 +1,6 @@
 # 规则名称:Twitter.list
 # 规则统计:32
-# 更新时间:2024-08-24 04:35:46
+# 更新时间:2024-08-25 04:35:51
 
 HOST-SUFFIX,ads-twitter.com,Twitter,PROXY
 HOST-SUFFIX,cms-twdigitalassets.com,Twitter,PROXY

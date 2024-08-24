@@ -1,0 +1,18 @@
+# 插件名称:YoudaoDict_remove_ads.plugin
+# 插件统计:14
+# 更新时间:2024-08-25 04:35:58
+
+
+[Rewrite]
+^https:\/\/gorgon\.youdao\.com\/gorgon\/brand\/prefetch\.s\? reject-dict
+
+^https:\/\/dict\.youdao\.com\/homepage\/toolbar\/get\? response-body-json-del data.vipTag
+
+^https:\/\/gorgon\.youdao\.com\/gorgon\/request\.s\? reject-dict
+
+^https:\/\/dict\.youdao\.com\/course\/tab\/translateTab\? response-body-json-del data
+
+^https:\/\/dict\.youdao\.com\/course\/tab\/home\? response-body-json-del data.popup data.tab data.searchSuggestList data.newBanner data.icon.promotionList data.icon.iconList[1].bubble data.icon.iconList[2].bubble data.icon.iconList[8].bubble
+
+[Mitm]
+hostname = gorgon.youdao.com, dict.youdao.com

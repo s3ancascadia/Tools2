@@ -1,6 +1,6 @@
   # 规则名称:iCloud.yaml
   # 规则统计:58
-  # 更新时间:2024-08-24 04:35:57
+  # 更新时间:2024-08-25 04:36:02
 
 payload:
   - DOMAIN-SUFFIX,apple-cloudkit.com
