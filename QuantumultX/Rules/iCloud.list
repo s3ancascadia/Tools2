@@ -1,6 +1,6 @@
 # 规则名称:iCloud.list
 # 规则统计:59
-# 更新时间:2024-08-25 04:35:52
+# 更新时间:2024-08-26 04:36:44
 
 HOST,www-cdn.icloud.com.akadns.net,iCloud,PROXY
 HOST-SUFFIX,apple-cloudkit.com,iCloud,PROXY

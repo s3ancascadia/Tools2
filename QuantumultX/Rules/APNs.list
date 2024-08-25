@@ -1,6 +1,6 @@
 # 规则名称:APNs.list
 # 规则统计:11
-# 更新时间:2024-08-25 04:35:50
+# 更新时间:2024-08-26 04:36:42
 
 HOST-SUFFIX,push.apple.com,DIRECT
 HOST,identity.apple.com,DIRECT

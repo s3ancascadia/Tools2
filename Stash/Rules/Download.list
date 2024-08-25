@@ -1,6 +1,6 @@
 # 规则名称:Download.list
 # 规则统计:34
-# 更新时间:2024-08-25 04:36:03
+# 更新时间:2024-08-26 04:36:55
 
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-KEYWORD,aria2
