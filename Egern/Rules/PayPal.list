@@ -1,6 +1,6 @@
 # 规则名称:PayPal.list
 # 规则统计:248
-# 更新时间:2024-08-26 04:36:39
+# 更新时间:2024-08-27 04:36:12
 
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net

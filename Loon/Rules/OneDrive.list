@@ -1,6 +1,6 @@
 # 规则名称:OneDrive.list
 # 规则统计:17
-# 更新时间:2024-08-26 04:36:46
+# 更新时间:2024-08-27 04:36:19
 
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com

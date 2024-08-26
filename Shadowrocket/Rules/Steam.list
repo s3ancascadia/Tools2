@@ -1,6 +1,6 @@
 # 规则名称:Steam.list
 # 规则统计:40
-# 更新时间:2024-08-26 04:36:52
+# 更新时间:2024-08-27 04:36:25
 
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
