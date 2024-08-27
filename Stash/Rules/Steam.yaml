@@ -1,6 +1,6 @@
   # 规则名称:Steam.yaml
   # 规则统计:40
-  # 更新时间:2024-08-27 04:36:27
+  # 更新时间:2024-08-28 04:36:58
 
 payload:
   - DOMAIN,steammobile.akamaized.net

@@ -1,6 +1,6 @@
 # 规则名称:Download.list
-# 规则统计:19
-# 更新时间:2024-08-27 04:36:11
+# 规则统计:20
+# 更新时间:2024-08-28 04:36:43
 
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-KEYWORD,aria2
@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
+URL-REGEX,assets\d+\.xboxlive\.(com|cn)
 PROCESS-NAME,BitComet
 PROCESS-NAME,DownloadService
 PROCESS-NAME,Folx

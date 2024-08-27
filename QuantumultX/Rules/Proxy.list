@@ -1,6 +1,6 @@
 # 规则名称:Proxy.list
-# 规则统计:6516
-# 更新时间:2024-08-27 04:36:16
+# 规则统计:6520
+# 更新时间:2024-08-28 04:36:47
 
 HOST,api.msn.com,Proxy,PROXY
 HOST,api.waqi.info,Proxy,PROXY
@@ -11,6 +11,9 @@ HOST,cdp.cloud.unity3d.com,Proxy,PROXY
 HOST,cloud.oracle.com,Proxy,PROXY
 HOST,copilot.microsoft.com,Proxy,PROXY
 HOST,cvws.icloud-content.com,Proxy,PROXY
+HOST,d1q6f0aelx0por.cloudfront.net,Proxy,PROXY
+HOST,d2wy8f7a9ursnm.cloudfront.net,Proxy,PROXY
+HOST,d36jcksde1wxzq.cloudfront.net,Proxy,PROXY
 HOST,developer.apple.com,Proxy,PROXY
 HOST,lens.l.google.com,Proxy,PROXY
 HOST,location.microsoft.com,Proxy,PROXY
@@ -1163,6 +1166,7 @@ HOST-SUFFIX,communitychoicecu.com,Proxy,PROXY
 HOST-SUFFIX,comodoca.com,Proxy,PROXY
 HOST-SUFFIX,comparitech.com,Proxy,PROXY
 HOST-SUFFIX,compileheart.com,Proxy,PROXY
+HOST-SUFFIX,compose-spec.io,Proxy,PROXY
 HOST-SUFFIX,compress.to,Proxy,PROXY
 HOST-SUFFIX,compython.net,Proxy,PROXY
 HOST-SUFFIX,conoha.jp,Proxy,PROXY
@@ -1406,6 +1410,7 @@ HOST-SUFFIX,dnsrd.com,Proxy,PROXY
 HOST-SUFFIX,dnssec.net,Proxy,PROXY
 HOST-SUFFIX,docker.com,Proxy,PROXY
 HOST-SUFFIX,docker.io,Proxy,PROXY
+HOST-SUFFIX,dockerhub.com,Proxy,PROXY
 HOST-SUFFIX,doctorvoice.org,Proxy,PROXY
 HOST-SUFFIX,documentingreality.com,Proxy,PROXY
 HOST-SUFFIX,dogfartnetwork.com,Proxy,PROXY
@@ -5695,7 +5700,6 @@ HOST-SUFFIX,urlparser.com,Proxy,PROXY
 HOST-SUFFIX,us.to,Proxy,PROXY
 HOST-SUFFIX,usacn.com,Proxy,PROXY
 HOST-SUFFIX,usaip.eu,Proxy,PROXY
-HOST-SUFFIX,usc.edu,Proxy,PROXY
 HOST-SUFFIX,uscardforum.com,Proxy,PROXY
 HOST-SUFFIX,uscnpm.org,Proxy,PROXY
 HOST-SUFFIX,usembassy.gov,Proxy,PROXY

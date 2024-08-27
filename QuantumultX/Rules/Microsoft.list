@@ -1,6 +1,6 @@
 # 规则名称:Microsoft.list
 # 规则统计:711
-# 更新时间:2024-08-27 04:36:16
+# 更新时间:2024-08-28 04:36:47
 
 HOST,bg.v4.a.dl.ws.microsoft.com,Microsoft,PROXY
 HOST,bg4.v4.a.dl.ws.microsoft.com,Microsoft,PROXY

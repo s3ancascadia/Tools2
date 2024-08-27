@@ -1,9 +1,8 @@
 # 规则名称:Apple.list
 # 规则统计:1872
-# 更新时间:2024-08-27 04:36:15
+# 更新时间:2024-08-28 04:36:47
 
 HOST,apps.apple.com,Apple,PROXY
-HOST,itunes.apple.com,Apple,PROXY
 HOST,a1.mzstatic.com,Apple,PROXY
 HOST,a2.mzstatic.com,Apple,PROXY
 HOST,a3.mzstatic.com,Apple,PROXY
@@ -242,6 +241,9 @@ HOST,developer.apple.com,Apple,PROXY
 HOST,devimages-cdn.apple.com,Apple,PROXY
 HOST,devstreaming-cdn.apple.com,Apple,PROXY
 HOST,docs-assets.developer.apple.com,Apple,PROXY
+HOST,hls-svod.itunes.apple.com,Apple,PROXY
+HOST,hls.itunes.apple.com,Apple,PROXY
+HOST,itunes.apple.com,Apple,PROXY
 HOST,js-cdn.music.apple.com,Apple,PROXY
 HOST,lookup-api.apple.com,Apple,PROXY
 HOST,mask-api.fe.apple-dns.net,Apple,PROXY
@@ -254,19 +256,17 @@ HOST,news-assets.apple.com,Apple,PROXY
 HOST,news-client.apple.com,Apple,PROXY
 HOST,news-edge.apple.com,Apple,PROXY
 HOST,news-events.apple.com,Apple,PROXY
-HOST,sandbox.itunes.apple.com,Apple,PROXY
-HOST,testflight.apple.com,Apple,PROXY
-HOST,hls-amt.itunes.apple.com,Apple,PROXY
-HOST,hls.itunes.apple.com,Apple,PROXY
 HOST,np-edge.itunes.apple.com,Apple,PROXY
 HOST,play-edge.itunes.apple.com,Apple,PROXY
+HOST,sandbox.itunes.apple.com,Apple,PROXY
+HOST,testflight.apple.com,Apple,PROXY
 HOST,tv.applemusic.com,Apple,PROXY
 HOST,uts-api.itunes.apple.com,Apple,PROXY
+HOST,hls-amt.itunes.apple.com,Apple,PROXY
 HOST,fmfmobile.icloud.com,Apple,PROXY
 HOST,fmipmobile.icloud.com,Apple,PROXY
 HOST,statici.icloud.com,Apple,PROXY
 HOST,amp-api.fitness.apple.com,Apple,PROXY
-HOST,hls-svod.itunes.apple.com,Apple,PROXY
 HOST,guzzoni.apple.com,Apple,PROXY
 HOST,beta.apple.com,Apple,PROXY
 HOST,www-cdn.icloud.com.akadns.net,Apple,PROXY
@@ -1451,7 +1451,6 @@ HOST-SUFFIX,applepaysupplies.net,Apple,PROXY
 HOST-SUFFIX,applepaysupplies.tv,Apple,PROXY
 HOST-SUFFIX,applewallet.com,Apple,PROXY
 HOST-SUFFIX,applewallet.tv,Apple,PROXY
-HOST-SUFFIX,appsto.re,Apple,PROXY
 HOST-SUFFIX,appstore.co.id,Apple,PROXY
 HOST-SUFFIX,appstore.com,Apple,PROXY
 HOST-SUFFIX,appstore.hk,Apple,PROXY
@@ -1765,6 +1764,7 @@ HOST-SUFFIX,iphoto.wang,Apple,PROXY
 HOST-SUFFIX,musickit.net,Apple,PROXY
 HOST-SUFFIX,wwwapplemusic.com,Apple,PROXY
 HOST-SUFFIX,apple-dns.net,Apple,PROXY
+HOST-SUFFIX,appsto.re,Apple,PROXY
 HOST-SUFFIX,digicert.com,Apple,PROXY
 HOST-SUFFIX,apple-cloudkit.com,Apple,PROXY
 HOST-SUFFIX,apple-icloud.cn,Apple,PROXY
@@ -1861,8 +1861,8 @@ USER-AGENT,passd*,Apple,PROXY
 USER-AGENT,Music*,Apple,PROXY
 USER-AGENT,AppleNews*,Apple,PROXY
 USER-AGENT,com.apple.news*,Apple,PROXY
-USER-AGENT,com.apple.trustd*,Apple,PROXY
 USER-AGENT,AppleTV*,Apple,PROXY
+USER-AGENT,com.apple.trustd*,Apple,PROXY
 USER-AGENT,com.apple.tv*,Apple,PROXY
 IP-CIDR,139.178.128.0/18,Apple,PROXY
 IP-CIDR,144.178.0.0/19,Apple,PROXY
